@@ -1,0 +1,7024 @@
+[
+  {
+    "question": "Prema položaju automobila ispred vas na prometnoj traci kako bi trebao postupiti vozač tog automobila u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "skrenuti udesno",
+        "correct": false
+      },
+      {
+        "text": "voziti kroz raskrižje ravno",
+        "correct": false
+      },
+      {
+        "text": "skrenuti ulijevo",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/46.jpg"
+    ]
+  },
+  {
+    "question": "Kako se vozač mora ponašati tijekom vožnje u koloni, u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "predviđati što se može dogoditi",
+        "correct": true
+      },
+      {
+        "text": "održavati potreban razmak između vozila",
+        "correct": true
+      },
+      {
+        "text": "stalno koristiti zvučni znak upozorenja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/9.jpg"
+    ]
+  },
+  {
+    "question": "Koje opasnosti možete očekivati na cesti izvan naselja, u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "nailazak na prijelaz ceste preko željezničke pruge",
+        "correct": true
+      },
+      {
+        "text": "nailazak na nepregledni zavoj",
+        "correct": true
+      },
+      {
+        "text": "nailazak na ravnu i preglednu dionicu ceste",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/10.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega pretjecanje dugih vozila i vozila s nadgrađem predstavlja posebno veliki rizik?",
+    "answers": [
+      {
+        "text": "zbog toga što je smanjena preglednost",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što se povećava put pretjecanja",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što se smanjuje put pretjecanja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/20.jpg"
+    ]
+  },
+  {
+    "question": "Što pokazuje prometni znak s dopunskom pločom na cesti u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "blizinu mjesta na cesti gdje se dogodio požar",
+        "correct": false
+      },
+      {
+        "text": "blizinu mjesta na cesti na kojemu se dogodila prometna nesreća",
+        "correct": true
+      },
+      {
+        "text": "blizinu mjesta na cesti gdje se izvode radovi",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/11/18.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete se ponašati tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "voziti s upaljenim dugim svjetlima",
+        "correct": false
+      },
+      {
+        "text": "predviđati mogućnost dolaska vozila iz suprotnog smjera",
+        "correct": true
+      },
+      {
+        "text": "voziti na potrebnom razmaku prema uvjetima vidljivosti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12/34.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega morate smanjiti brzinu kada pada kiša ?",
+    "answers": [
+      {
+        "text": "zbog smanjene vidljivosti iz vozila",
+        "correct": true
+      },
+      {
+        "text": "zbog mogučnosti nastanka vodenog klina",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što nove gume slabije prianjaju na kolnik po kiši",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/B5_36.JPG"
+    ]
+  },
+  {
+    "question": "Što označuje žaruljica na instrumentnoj ploči sa simbolom kao na slici?",
+    "answers": [
+      {
+        "text": "rezervu goriva",
+        "correct": true
+      },
+      {
+        "text": "grešku u radu motora",
+        "correct": false
+      },
+      {
+        "text": "predgrijavanje dizelskog motora",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/8/12.jpg"
+    ]
+  },
+  {
+    "question": "Koji od uređaja pripadaju uređajima za davanje svjetlosnih znakova?",
+    "answers": [
+      {
+        "text": "kratka svjetla",
+        "correct": false
+      },
+      {
+        "text": "stop-svjetla",
+        "correct": true
+      },
+      {
+        "text": "pokazivači smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja je uloga naslona za glavu?",
+    "answers": [
+      {
+        "text": "smanjiti rizik od ozljede glave prilikom sudara",
+        "correct": true
+      },
+      {
+        "text": "osigurati udobnost vozaču prilikom upravljanja vozilom",
+        "correct": false
+      },
+      {
+        "text": "smanjiti rizik od ozljede vratnih kralježaka prilikom naleta drugog vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smiju li se vučenim vozilom prevoziti osobe?",
+    "answers": [
+      {
+        "text": "smiju, samo uz posebno odobrenje",
+        "correct": false
+      },
+      {
+        "text": "smiju ako ima dovoljno mjesta",
+        "correct": false
+      },
+      {
+        "text": "ne smiju",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kolika je najveća dopuštena brzina kretanja vozila na cesti, osim na autocesti, brzoj cesti i cesti namijenjenoj isključivo za promet motornih vozila? Upišite u kvadratić.",
+    "answers": [],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko je ograničenje brzine kretanja vozila na cesti u naselju u kojemu brzina kretanja nije određena  prometnim znakom? Upišite u kvadratić.",
+    "answers": [],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na koji način se vozač može pripremiti za promjenu prometne trake?",
+    "answers": [
+      {
+        "text": "ubrzavanjem vozila",
+        "correct": true
+      },
+      {
+        "text": "usporavanjem vozila",
+        "correct": true
+      },
+      {
+        "text": "naglim okretanjem kotača upravljača",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zbog čega morate, u situaciji kao na slici, propustiti motocikl?",
+    "answers": [
+      {
+        "text": "zbog toga što se nalazi na cesti s prednošću prolaska",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što nailazite s lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što zadržavate smjer vožnje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/37.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "voziti zadnji kroz raskrižje",
+        "correct": true
+      },
+      {
+        "text": "voziti prvi kroz raskrižje",
+        "correct": false
+      },
+      {
+        "text": "voziti kroz raskrižje nakon što prođe crveni automobil",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/13.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega ćete u situaciji kao na slici voziti prije crvenog automobila?",
+    "answers": [
+      {
+        "text": "zbog toga što me je dužan pustiti",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što nailazite s desne strane",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što se nalazi na sporednoj cesti",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/9.jpg"
+    ]
+  },
+  {
+    "question": "Vozač vozila iza vas dao je znak pokazivačem smjera da namjerava pretjecati. Što ste dužni učiniti?",
+    "answers": [
+      {
+        "text": "pomaknuti svoje vozilo k desnom rubu kolnika",
+        "correct": true
+      },
+      {
+        "text": "povećati brzinu kretanja",
+        "correct": false
+      },
+      {
+        "text": "ne povećavati brzinu kretanja dok vas drugo vozilo pretječe",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja se vozila ne smiju uključiti u promet autocestom ?",
+    "answers": [
+      {
+        "text": "koja ne mogu razviti brzinu veću od 60 km/h",
+        "correct": true
+      },
+      {
+        "text": "koja se ne ubrajaju u motorna vozila",
+        "correct": true
+      },
+      {
+        "text": "motocikl s bočnom prikolicom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Skrećete udesno na raskrižju u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "usporiti i propustiti bicikliste",
+        "correct": true
+      },
+      {
+        "text": "skrenuti prije bicikliste",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/35.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega se bolje uočava prometni znak u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "zbog vrste prometnog znaka",
+        "correct": true
+      },
+      {
+        "text": "zbog velikih brzina vožnje",
+        "correct": false
+      },
+      {
+        "text": "zbog jačeg intenziteta svjetlosti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/26.jpg"
+    ]
+  },
+  {
+    "question": "Kojem svjetlu na semaforu odgovara položaj tijela i znak koji daje policijski službenik na slici?",
+    "answers": [
+      {
+        "text": "žutom svjetlu",
+        "correct": false
+      },
+      {
+        "text": "zelenom svjetlu",
+        "correct": true
+      },
+      {
+        "text": "crvenom svjetlu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/15.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti pri nailasku na prometni znak kao na slici?",
+    "answers": [
+      {
+        "text": "postupno smanjivati brzinu do mjesta prelaska pješaka",
+        "correct": true
+      },
+      {
+        "text": "obići pješake ako prelaze preko obilježenoga pješačkog prijelaza",
+        "correct": false
+      },
+      {
+        "text": "propustiti pješake koji prelaze preko obilježenoga pješačkog prijelaza",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.4/32.jpg"
+    ]
+  },
+  {
+    "question": "Koje se oznake na kolniku obilježavaju žutom bojom?",
+    "answers": [
+      {
+        "text": "kolničke trake",
+        "correct": false
+      },
+      {
+        "text": "oznake mjesta na kojima je zabranjeno parkiranje",
+        "correct": true
+      },
+      {
+        "text": "naprave za smirivanje prometa",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "O čemu vozača obavještava prometni znak na slici?",
+    "answers": [
+      {
+        "text": "da vozi autocestom",
+        "correct": false
+      },
+      {
+        "text": "da vozi državnom cestom",
+        "correct": false
+      },
+      {
+        "text": "da vozi brzom cestom",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/18.jpg"
+    ]
+  },
+  {
+    "question": "Koji prometni znak označuje obvezan smjer vožnje?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": true
+      },
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/16.jpg"
+    ]
+  },
+  {
+    "question": "Koji prometni znak označuje brzinu koja se preporučuje na određenoj dionici ceste?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/9.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti kad naiđete na ovaj prometni znak ako pješaci namjeravaju stupiti na kolnik?",
+    "answers": [
+      {
+        "text": "pripremiti se za obilaženje pješaka",
+        "correct": false
+      },
+      {
+        "text": "povećati oprez",
+        "correct": true
+      },
+      {
+        "text": "pripremiti se na kočenje i zaustavljanje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/19.jpg"
+    ]
+  },
+  {
+    "question": "Na što sudionike u prometu upozoravaju znakovi opasnosti?",
+    "answers": [
+      {
+        "text": "na ograničenja koja se odnose na cestu ili dio ceste kojom vozač vozi",
+        "correct": false
+      },
+      {
+        "text": "na opasnost koja prijeti vozaču na cesti ili na dijelu ceste kojom vozi",
+        "correct": true
+      },
+      {
+        "text": "na prirodu opasnosti koja prijeti vozaču na cesti ili na dijelu ceste kojom vozi",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zbog čega vozač, u situaciji kao na slici, mora naročito paziti na razmak od vozila ispred?",
+    "answers": [
+      {
+        "text": "zbog toga što je sklizak kolnik",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što vozač vozila ispred može naglo kočiti",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što postoji opasnost od naleta na vozilo ispred koje može skrenuti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_45.jpg"
+    ]
+  },
+  {
+    "question": "Vozeći cestom naišli ste na mjesto izvođenja radova. Kako ćete postupiti u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "prilagoditi brzinu situaciji na cesti",
+        "correct": true
+      },
+      {
+        "text": "obilaženje vozila ophodnje ceste obaviti s desne strane",
+        "correct": false
+      },
+      {
+        "text": "paziti na radnike koji obavljaju radove",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_57.jpg"
+    ]
+  },
+  {
+    "question": "Kojom se cestom kreće vozilo u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "brzom cestom",
+        "correct": false
+      },
+      {
+        "text": "autocestom",
+        "correct": true
+      },
+      {
+        "text": "cestom namijenjenom isključivo za promet motornih vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3/Cesta%20i%20njena%20obiljezja_1.jpg"
+    ]
+  },
+  {
+    "question": "Smije li vozač vozila B kategorije upravljati vozilom na cesti ako u organizmu ima alkohola iznad 0,5 g/kg?",
+    "answers": [
+      {
+        "text": "smije upravljati vozilom samo na lokalnoj cesti",
+        "correct": false
+      },
+      {
+        "text": "smije upravljati vozilom u prometu na cesti",
+        "correct": false
+      },
+      {
+        "text": "ne smije upravljati niti početi upravljati vozilom u prometu na cesti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koji je preduvjet za sigurno ponašanje sudionika u prometu?",
+    "answers": [
+      {
+        "text": "međusobno poštovanje",
+        "correct": true
+      },
+      {
+        "text": "agresivno ponašanje",
+        "correct": false
+      },
+      {
+        "text": "prometni odgoj i prometna kultura",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja osoba može steći pravo na samostalno upravljanje vozilom određene kategorije?",
+    "answers": [
+      {
+        "text": "osoba koja je duševno i tjelesno sposobna upravljati vozilom",
+        "correct": true
+      },
+      {
+        "text": "osoba koja je navršila minimalnu dob za upravljanje vozilom",
+        "correct": true
+      },
+      {
+        "text": "osoba koja ima najmanje višu školsku spremu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom najvećom brzinom na autocesti smije upravljati vozilom mladi vozač koji posjeduje vozačku dozvolu B kategorije?",
+    "answers": [
+      {
+        "text": "brzinom do 120 km na sat",
+        "correct": false
+      },
+      {
+        "text": "brzinom do 110 km na sat",
+        "correct": false
+      },
+      {
+        "text": "brzinom do 130 km na sat",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na što vas upozorava prometna situacija kao na slici?",
+    "answers": [
+      {
+        "text": "na približavanje raskrižju s kružnim tokom prometa nakon 200 metara",
+        "correct": true
+      },
+      {
+        "text": "na nailazak na prometna svjetla nakon 200 metara",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/34.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete u gradu voziti u koloni vozila?",
+    "answers": [
+      {
+        "text": "brzinom kojom se kreće kolona",
+        "correct": true
+      },
+      {
+        "text": "na potrebnom razmaku između vozila",
+        "correct": true
+      },
+      {
+        "text": "s uključenim svim pokazivačima smjera",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/8.jpg"
+    ]
+  },
+  {
+    "question": "Koje opasnosti su moguće u vožnji na cesti izvan naselja?",
+    "answers": [
+      {
+        "text": "nepregledni zavoj",
+        "correct": true
+      },
+      {
+        "text": "na pojedinim dionicama mogući odroni kamenja",
+        "correct": true
+      },
+      {
+        "text": "vožnja raskrižjem u više razina",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/4.jpg"
+    ]
+  },
+  {
+    "question": "Na koje opasnosti morate računati u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "na premali bočni razmak",
+        "correct": true
+      },
+      {
+        "text": "na nepoštivanje zabrane pretjecanja",
+        "correct": false
+      },
+      {
+        "text": "na nailazak vozila iz suprotnog smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/7.jpg"
+    ]
+  },
+  {
+    "question": "Što je vozač dužan učiniti kad naiđe na mjesto prometne nesreće u kojoj ima ozlijeđenih osoba?",
+    "answers": [
+      {
+        "text": "dužan je ukazati pomoć stradalima",
+        "correct": true
+      },
+      {
+        "text": "dužan je nastaviti vožnju bez zaustavljanja",
+        "correct": false
+      },
+      {
+        "text": "dužan je odmah obići mjesto prometne nesreće",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja se svjetla smiju koristiti noću u normalnim atmosferskim uvjetima za osvjetljavanje ceste dok se vozi kroz naselje?",
+    "answers": [
+      {
+        "text": "kratka svjetla",
+        "correct": true
+      },
+      {
+        "text": "svjetla za maglu",
+        "correct": false
+      },
+      {
+        "text": "duga svjetla",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koje opasnosti su moguće u situaciji kao na slici pri prvoj kiši?",
+    "answers": [
+      {
+        "text": "moguće je klizanje i zanošenje vozila",
+        "correct": true
+      },
+      {
+        "text": "moguće je slijetanje vozila s ceste",
+        "correct": true
+      },
+      {
+        "text": "moguć je aquaplaning",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12.1/13.jpg"
+    ]
+  },
+  {
+    "question": "Želite krenuti automobilom. Na instrument ploči vam je upaljena crvena kontrolna žaruljica kao na slici. Što učiniti ?",
+    "answers": [
+      {
+        "text": "otpustiti ručnu kočnicu i kad se žaruljica ugasi krenuti",
+        "correct": true
+      },
+      {
+        "text": "povući ručnu kočnicu i ugasiti motor",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/8.2/13.jpg"
+    ]
+  },
+  {
+    "question": "Kako moraju biti označena oba vozila za vrijeme vuče neispravnog vozila?",
+    "answers": [
+      {
+        "text": "sa sigurnosnim trokutom na svakom vozilu",
+        "correct": true
+      },
+      {
+        "text": "crvenom tkaninom ili crvenim svjetlom sa stražnje strane vučenog vozila",
+        "correct": false
+      },
+      {
+        "text": "žutim rotacijskim svjetlima na krovu obaju vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što vozač mora uključiti na vozilu za vrijeme kretanja unatrag?",
+    "answers": [
+      {
+        "text": "lijevi pokazivač smjera",
+        "correct": false
+      },
+      {
+        "text": "sve pokazivače smjera",
+        "correct": true
+      },
+      {
+        "text": "desni pokazivač smjera",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zašto je vozač dužan prilagoditi brzinu kretanja vozila?",
+    "answers": [
+      {
+        "text": "da vozilo može pravodobno zaustaviti pred svakom zaprekom na cesti",
+        "correct": true
+      },
+      {
+        "text": "da može postupiti prema prometnom pravilu ili znaku",
+        "correct": true
+      },
+      {
+        "text": "da može što je moguće brže stići do odredišta",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojim se od prometnih znakova uređuje odvijanje prometa na raskrižju?",
+    "answers": [],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.1/37.jpg"
+    ]
+  },
+  {
+    "question": "Kako čete postupiti u situaciji kao na slici ?",
+    "answers": [
+      {
+        "text": "propustiti biciklistu",
+        "correct": false
+      },
+      {
+        "text": "voziti prije bicikliste",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/raskrizje(1).jpg"
+    ]
+  },
+  {
+    "question": "Približavate se ovom raskrižju. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "voziti prvi kroz raskrižje",
+        "correct": true
+      },
+      {
+        "text": "propustiti kamion da skrene lijevo",
+        "correct": false
+      },
+      {
+        "text": "obavezno zaustaviti vozilo kod znaka stop",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/45.jpg"
+    ]
+  },
+  {
+    "question": "Što se ne smije činiti vozilom na cesti u situaciji na slici?",
+    "answers": [
+      {
+        "text": "polukružno okretati vozilo i kretati se vozilom unatrag",
+        "correct": true
+      },
+      {
+        "text": "voziti brzinom više od 110 km/h",
+        "correct": true
+      },
+      {
+        "text": "požurivati vozila ispred sebe davanjem svjetlosnih i zvučnih znakova",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/30.jpg"
+    ]
+  },
+  {
+    "question": "Vozite cestom u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "nakon prolaska vozila iz suprotnog smjera obići djecu",
+        "correct": false
+      },
+      {
+        "text": "voziti pokraj djece i pozorno pratiti njihovo kretanje",
+        "correct": true
+      },
+      {
+        "text": "predvidjeti mogućnost da neko dijete iznenada stupi na kolnik",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/27.jpg"
+    ]
+  },
+  {
+    "question": "Što je mrtvi kut ?",
+    "answers": [
+      {
+        "text": "vozačevom pogledu skriveno područje iza vozila",
+        "correct": false
+      },
+      {
+        "text": "vozačevom oku skriveno područje iza vozila",
+        "correct": false
+      },
+      {
+        "text": "vozačevom pogledu skriveno područje oko vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti približavajući se vozilom policijskom službeniku u situaciji kao na slici ako daje znak u vašem smjeru?",
+    "answers": [
+      {
+        "text": "obvezno zaustaviti vozilo",
+        "correct": false
+      },
+      {
+        "text": "smanjiti brzinu vožnje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/10.jpg"
+    ]
+  },
+  {
+    "question": "Što označuje kosa crta na kolniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "mjesto otvaranja prometne trake za vozila javnog prijevoza putnika",
+        "correct": true
+      },
+      {
+        "text": "mjesto otvaranja prometne trake za zaustavljanje vozila u nuždi",
+        "correct": false
+      },
+      {
+        "text": "mjesto otvaranja ulazne trake na brzoj cesti",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/28.jpg"
+    ]
+  },
+  {
+    "question": "Što najavljuje svjetlosni znak na slici?",
+    "answers": [
+      {
+        "text": "slobodan prolazak prijelaza ceste preko željezničke pruge",
+        "correct": false
+      },
+      {
+        "text": "približavanje vlaka",
+        "correct": true
+      },
+      {
+        "text": "polubranik je u zatvorenom položaju",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/44.jpg"
+    ]
+  },
+  {
+    "question": "Što se mora učiniti pri nailasku na ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "obvezno zaustaviti vozilo",
+        "correct": true
+      },
+      {
+        "text": "propustiti vozila ako nailaze cestom s prednošću prolaska",
+        "correct": true
+      },
+      {
+        "text": "obvezno se zaustaviti samo ako nailaze vozila cestom s prednošću prolaska",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/17.jpg"
+    ]
+  },
+  {
+    "question": "Na što ukazuje ovaj prometni znak s dopunskom pločom?",
+    "answers": [
+      {
+        "text": "da nakon 100 metara morate propustiti vozila ako nailaze cestom",
+        "correct": true
+      },
+      {
+        "text": "obvezno zaustavljanje nakon 100 metara",
+        "correct": true
+      },
+      {
+        "text": "da nakon 100 metara imate prednost prolaska",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/24.jpg"
+    ]
+  },
+  {
+    "question": "Na koju opasnost upozorava postavljeni prometni znak u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "na mogući nailazak na kolonu vozila na udaljenosti 1200 metara nakon znaka",
+        "correct": true
+      },
+      {
+        "text": "na kolonu vozila u duljini 1200 metara od znaka",
+        "correct": false
+      },
+      {
+        "text": "na nailazak kolone vozila iz suprotnog smjera na udaljenosti 1200 nakon znaka",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/28.jpg"
+    ]
+  },
+  {
+    "question": "O čemu ovisi duljina puta kočenja?",
+    "answers": [
+      {
+        "text": "o psihomotornim sposobnostima vozača",
+        "correct": false
+      },
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      },
+      {
+        "text": "o stanju kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što utječe na produljenje puta kočenja ?",
+    "answers": [
+      {
+        "text": "mokar i blatnjav kolnik",
+        "correct": true
+      },
+      {
+        "text": "suh kolnik",
+        "correct": false
+      },
+      {
+        "text": "opterećenje vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što osigurava poprečni nagib kolnika u smjeru centra zavoja?",
+    "answers": [
+      {
+        "text": "odvodnju vode s kolnika",
+        "correct": true
+      },
+      {
+        "text": "povećanje utjecaja centrifugalne sile",
+        "correct": false
+      },
+      {
+        "text": "sigurniji prolazak zavojem",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3/Cesta%20i%20njena%20obiljezja_19.jpg"
+    ]
+  },
+  {
+    "question": "Kako alkohol djeluje na vozača?",
+    "answers": [
+      {
+        "text": "tako da vozač, u pravilu, sporije reagira",
+        "correct": true
+      },
+      {
+        "text": "tako da vozač brže reagira",
+        "correct": false
+      },
+      {
+        "text": "tako da vozač precjenjuje svoje sposobnosti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što znači kulturno se ponašati u prometu?",
+    "answers": [
+      {
+        "text": "ponašati se u skladu s prometnim propisima i sigurnosnim pravilima",
+        "correct": true
+      },
+      {
+        "text": "ponašati se tako da uvijek koristimo svoje pravo u prometu",
+        "correct": false
+      },
+      {
+        "text": "ponašati se tako da uvažavamo i poštujemo druge sudionike prometa",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite desnom prometnom trakom u situaciji kao na slici. Koja prometna traka se nalazi desno od trake po kojoj vozite?",
+    "answers": [
+      {
+        "text": "prometna traka za usporavanje",
+        "correct": false
+      },
+      {
+        "text": "prometna traka za spora vozila",
+        "correct": false
+      },
+      {
+        "text": "prometna traka za zaustavljanje vozila u nuždi",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/Propisi%20u%20cestovnom%20prometu_23.jpg"
+    ]
+  },
+  {
+    "question": "Što je ugrožavanje prometa?",
+    "answers": [
+      {
+        "text": "takav način sudjelovanja u prometu zbog kojega je nastupila neposredna opasnost nastanka prometne nesreće",
+        "correct": true
+      },
+      {
+        "text": "radnja u prometu kojom se nekoga suprotno prometnim propisima prisiljava na promjenu dotadašnjeg načina sudjelovanja u prometu bez nastupanja neposredne opasnosti od nastanka prometne nesreće",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite u situaciji kao na slici. Što smijete vozilom činiti, a u skladu s prometnim znakovima, prometnim svjetlima i oznakama na kolniku?",
+    "answers": [
+      {
+        "text": "skretati udesno na raskrižju",
+        "correct": false
+      },
+      {
+        "text": "promijeniti prometnu traku",
+        "correct": false
+      },
+      {
+        "text": "proći raskrižjem ravno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/25.jpg"
+    ]
+  },
+  {
+    "question": "Vozite automobil desnom prometnom trakom u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "nastaviti vožnju ravno",
+        "correct": false
+      },
+      {
+        "text": "prestrojiti se u lijevu prometnu traku",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/1.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete tijekom vožnje postupiti u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "prilagoditi brzinu vožnje uvjetima vožnje",
+        "correct": true
+      },
+      {
+        "text": "predvidjeti mogućnost uključivanja vozila na cestu kojom vozite",
+        "correct": true
+      },
+      {
+        "text": "na mjestu spajanja ceste skrenuti udesno",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/22.jpg"
+    ]
+  },
+  {
+    "question": "Što je prometna nesreća?",
+    "answers": [
+      {
+        "text": "događaj na cesti u kojemu je sudjelovalo najmanje jedno vozilo u pokretu",
+        "correct": true
+      },
+      {
+        "text": "događaj na cesti u kojemu je najmanje jedna osoba ozlijeđena ili poginula",
+        "correct": true
+      },
+      {
+        "text": "događaj na nerazvrstanoj cesti u kojemu je radno vozilo sletjelo s ceste",
+        "correct": false
+      },
+      {
+        "text": "događaj na cesti u kojemu je izazvana materijalna šteta",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/11/4.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti pri mimoilaženju u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "voziti s uključenim kratkim svjetlima",
+        "correct": true
+      },
+      {
+        "text": "povećati brzinu",
+        "correct": false
+      },
+      {
+        "text": "pogled usmjeriti prema desnom rubu kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12/12.jpg"
+    ]
+  },
+  {
+    "question": "Što je potrebno učiniti kako bi vidljivost iz vozila tijekom vožnje u zimskim uvjetima bila dobra?",
+    "answers": [
+      {
+        "text": "sa svih stakala i zrcala treba ostrugati led",
+        "correct": true
+      },
+      {
+        "text": "uključiti strujanje hladnog zraka",
+        "correct": false
+      },
+      {
+        "text": "uključiti grijač zadnjeg stakla",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koji od uređaja pripadaju u uređaje za osvjetljavanje ceste?",
+    "answers": [
+      {
+        "text": "glavna svjetla",
+        "correct": true
+      },
+      {
+        "text": "svjetla za maglu",
+        "correct": true
+      },
+      {
+        "text": "parkirna svjetla",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što čini zimsku opremu osobnog automobila?",
+    "answers": [
+      {
+        "text": "zimske gume (M + S) na svim kotačima",
+        "correct": true
+      },
+      {
+        "text": "ljetne gume dubine profila 4 mm i s lancima za snijeg pripravnim za postavljanje na pogonske kotače",
+        "correct": true
+      },
+      {
+        "text": "zimske gume (M + S) samo na pogonskim kotačima",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Naišli ste na zaustavljeno vozilo kojim se organizirano prevoze djeca, u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "smanjenom brzinom proći pokraj vozila",
+        "correct": false
+      },
+      {
+        "text": "zaustaviti svoje vozilo",
+        "correct": true
+      },
+      {
+        "text": "omogućiti prelazak djece preko kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/8.3/32.jpg"
+    ]
+  },
+  {
+    "question": "Kojom najvećom dopuštenom brzinom smijete voziti brzom cestom u situaciji kao na slici? Upišite u kvadratić.",
+    "answers": [],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/54.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti kada svojim vozilom ulazite s ceste bez suvremenoga kolničkog zastora na cestu sa suvremenim kolničkim zastorom i kada ta cesta nije prometnim znakom označena kao cesta s prednošću prolaska?",
+    "answers": [
+      {
+        "text": "propustiti isključivo vozila koja nailaze s desne strane",
+        "correct": false
+      },
+      {
+        "text": "propustiti sva vozila koja se kreću tom cestom",
+        "correct": true
+      },
+      {
+        "text": "propustiti vozila koja dolaze isključivo iz suprotnog smjera",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zbog čega morate, u situaciji kao na slici, propustiti vozilo koje nailazi iz suprotnog smjera?",
+    "answers": [
+      {
+        "text": "zbog toga što zadržava smjer kretanja",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što nailazi s glavne ceste",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što vozilom skrećete ulijevo",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/21.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega morate, u situaciji kao na slici, propustiti crveni automobil?",
+    "answers": [
+      {
+        "text": "zbog toga što nailaze s desne strane",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što se kreće cestom s prednošću prolaska",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što zadržava smjer kretanja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/15.jpg"
+    ]
+  },
+  {
+    "question": "Kada vozač na cesti smije pretjecati?",
+    "answers": [
+      {
+        "text": "ako ne ometa normalno kretanje vozila iz suprotnog smjera",
+        "correct": true
+      },
+      {
+        "text": "ako na cesti ima dovoljno prostora za izvođenje te radnje",
+        "correct": true
+      },
+      {
+        "text": "ako ne ometa kretanje vozila ispred njegovog vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smije li se zaustaviti ili parkirati vozilo u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "smije se zaustaviti ili parkirati",
+        "correct": false
+      },
+      {
+        "text": "ne smije se zaustaviti ili parkirati",
+        "correct": true
+      },
+      {
+        "text": "smije se zaustaviti, ali se ne smije parkirati",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/4.jpg"
+    ]
+  },
+  {
+    "question": "Što mora učiniti vozač kako bi izbjegao opasnosti i rizik u prometu?",
+    "answers": [
+      {
+        "text": "voziti isključivo na način kako to njemu odgovara",
+        "correct": false
+      },
+      {
+        "text": "voziti predviđajući potencijalnu opasnost",
+        "correct": true
+      },
+      {
+        "text": "pravilno reagirati na smetnje u vožnji",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti približavajući se vozilom policijskom službeniku u situaciji kao na slici ako namjeravate skrenuti udesno?",
+    "answers": [
+      {
+        "text": "obvezno zaustaviti vozilo",
+        "correct": true
+      },
+      {
+        "text": "voziti u smjeru ispružene ruke",
+        "correct": false
+      },
+      {
+        "text": "pratiti znak policijskog službenika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/8.jpg"
+    ]
+  },
+  {
+    "question": "Što znači više uzastopnih zvižduka zviždaljkom koje daje policijski službenik?",
+    "answers": [
+      {
+        "text": "upozorenje određenom sudioniku u prometu na povećanje brzine kretanja",
+        "correct": false
+      },
+      {
+        "text": "upozorenje da je određeni sudionik u prometu postupio protivno zahtjevu izraženim danim znakom",
+        "correct": true
+      },
+      {
+        "text": "poziv sudionicima u prometu da obrate pozornost na policijskog službenika koji će izraziti određeni zahtjev",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Je li dopušteno vozilom prelaziti preko dvostruke pune razdjelne crte na kolniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "zabranjeno je prelaziti preko te crte",
+        "correct": true
+      },
+      {
+        "text": "dopušteno je prelaziti",
+        "correct": false
+      },
+      {
+        "text": "zabranjeno je voziti po toj crti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/17.jpg"
+    ]
+  },
+  {
+    "question": "Što označuje ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "označava prostor koji je određen ili posebno uređen za parkiranje vozila čiji vozači i putnici dalje nastavljaju putovanje javnim gradskim prijevozom",
+        "correct": true
+      },
+      {
+        "text": "označava prostor na aerodromim, koji je odrea, koji je određen ili posebno uređen za parkiranje vozila čiji vozači se ukrcavaju na avion",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/63678.jpg"
+    ]
+  },
+  {
+    "question": "Koji od prometnih znakova zabranjuje promet u oba smjera?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/13.jpg"
+    ]
+  },
+  {
+    "question": "Čime je određeno značenje prometnog znaka?",
+    "answers": [
+      {
+        "text": "položajem znaka uz cestu",
+        "correct": false
+      },
+      {
+        "text": "oblikom prometnog znaka",
+        "correct": true
+      },
+      {
+        "text": "simbolom ograničenja i zabrane u prometu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na koju opasnost upozorava prometni znak kao na slici?",
+    "answers": [
+      {
+        "text": "na opasno mjesto gdje divljač često prelazi preko ceste na udaljenosti 600 metara nakon prometnog znaka",
+        "correct": false
+      },
+      {
+        "text": "na opasno mjesto gdje divljač često prelazi preko ceste u duljini 600 metara od prometnog znaka",
+        "correct": true
+      },
+      {
+        "text": "na opasno mjesto gdje domaće životinje često prelaze preko ceste u duljini 600 metara od prometnog znaka",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/26.jpg"
+    ]
+  },
+  {
+    "question": "Od čega se sastoji zaustavni put vozila ?",
+    "answers": [
+      {
+        "text": "od puta usporavanja i puta kočenja",
+        "correct": false
+      },
+      {
+        "text": "od puta reagiranja i puta kočenja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na cesti kojom vozite izvode se radovi u situaciji  kao na slici. Kako čete postupiti ?",
+    "answers": [
+      {
+        "text": "zaustaviti jer je prometna traka po kojoj vozim zauzeta",
+        "correct": false
+      },
+      {
+        "text": "nastaviti vožnju trakom za vozila iz suprotnog smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/B1_32.JPG"
+    ]
+  },
+  {
+    "question": "Čemu služi uređaj na slici?",
+    "answers": [
+      {
+        "text": "za utvrđivanje količine alkohola u krvi",
+        "correct": false
+      },
+      {
+        "text": "za utvrđivanje količine alkohola u izdahnutom zraku",
+        "correct": true
+      },
+      {
+        "text": "za utvrđivanje prisutnosti droga u organizmu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/2.1/Ponasanje%20sudionika%20u%20prometu_47.JPG"
+    ]
+  },
+  {
+    "question": "Kako će postupiti kulturan vozač koji se automobilom približava raskrižju u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "nastaviti vožnju trubeći jer ima slobodan prolazak",
+        "correct": false
+      },
+      {
+        "text": "uvažavajući neodgovorno ponašanje pješaka, usporiti i propustiti ih",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/2/Ponasanje%20sudionika%20u%20prometu_8%2C%209.JPG"
+    ]
+  },
+  {
+    "question": "Kada vozač ne smije upravljati niti početi upravljati vozilom na cesti?",
+    "answers": [
+      {
+        "text": "ako u organizmu ima alkohola iznad propisane količine",
+        "correct": true
+      },
+      {
+        "text": "ako je u toliko mjeri umoran ili bolestan da je nesposoban za vožnju",
+        "correct": true
+      },
+      {
+        "text": "ako koristi lijekove na kojima nije označeno da se ne smiju upotrebljavati prije ili za vrijeme vožnje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kada mladi vozač koji posjeduje vozačku dozvolu B kategorije ne smije upravljati vozilom?",
+    "answers": [
+      {
+        "text": "kada u organizmu ima opojnih droga ili ako pokazuje znakove alkoholiziranosti",
+        "correct": true
+      },
+      {
+        "text": "kada organizirano prevozi djecu",
+        "correct": false
+      },
+      {
+        "text": "kada snaga motora osobnog automobila prelazi 80 kW",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite u situaciji kao na slici. Kako ćete postupiti u skladu s prometnim znakovima, prometnim svjetlima i oznakama na kolniku?",
+    "answers": [
+      {
+        "text": "obvezno stati prije zaustavne crte",
+        "correct": false
+      },
+      {
+        "text": "prestrojiti se u lijevu prometnu traku",
+        "correct": false
+      },
+      {
+        "text": "voziti raskrižjem ravno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/26.jpg"
+    ]
+  },
+  {
+    "question": "Autobus je zaustavljen u situaciji kao na slici. Koje opasnosti možete predvidjeti?",
+    "answers": [
+      {
+        "text": "kontrolu karata u autobusu",
+        "correct": false
+      },
+      {
+        "text": "iznenadnu pojavu djece ispred autobusa",
+        "correct": true
+      },
+      {
+        "text": "iznenadno pretrčavanje djece preko kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/4.jpg"
+    ]
+  },
+  {
+    "question": "Koja su obilježja vožnje u koloni?",
+    "answers": [
+      {
+        "text": "vožnja različitim brzinama",
+        "correct": false
+      },
+      {
+        "text": "brzine i postupci vozača su međusobno uvjetovani",
+        "correct": true
+      },
+      {
+        "text": "učestala pretjecanja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/43.jpg"
+    ]
+  },
+  {
+    "question": "Koliki treba biti bočni razmak kod pretjecanja prema sigurnosnom pravilu kada se pretječu vozila s dva kotača?",
+    "answers": [
+      {
+        "text": "najmanje 1,5 metara",
+        "correct": true
+      },
+      {
+        "text": "najmanje 2 metra",
+        "correct": false
+      },
+      {
+        "text": "najmanje 1 metar",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Čime se obilježava mjesto prometne nesreće?",
+    "answers": [
+      {
+        "text": "sigurnosnim trokutom",
+        "correct": true
+      },
+      {
+        "text": "crvenom tkaninom",
+        "correct": false
+      },
+      {
+        "text": "crvenom pločom dimenzija 50 x 50 cm",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/11/8.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti u ovoj situaciji?",
+    "answers": [
+      {
+        "text": "pogled usmjeriti prema sredini kolnika",
+        "correct": false
+      },
+      {
+        "text": "pogled usmjeriti prema desnom rubu kolnika",
+        "correct": true
+      },
+      {
+        "text": "smanjiti brzinu vožnje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12/3.jpg"
+    ]
+  },
+  {
+    "question": "Koje opasnosti mogu nastati na cesti tijekom vožnje u zimskim uvjetima?",
+    "answers": [
+      {
+        "text": "zanošenje i klizanje vozila",
+        "correct": true
+      },
+      {
+        "text": "ako pada snijeg, smanjena vidljivost",
+        "correct": true
+      },
+      {
+        "text": "dulje vrijeme reagiranja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti kada se tijekom vožnje na insturmentnoj ploči upali žaruljica kao na slici?",
+    "answers": [
+      {
+        "text": "odmah, na prikladnom mjestu, isključiti vozilo iz prometa i isključiti rad motora",
+        "correct": true
+      },
+      {
+        "text": "zaustaviti vozilo na prvoj benzinskoj postaji",
+        "correct": false
+      },
+      {
+        "text": "provjeriti razinu tekućine u sustavu za hlađenje motora",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/8/10.jpg"
+    ]
+  },
+  {
+    "question": "Kada se koriste svjetla za maglu?",
+    "answers": [
+      {
+        "text": "samo tijekom vožnje po magli",
+        "correct": true
+      },
+      {
+        "text": "tijekom vožnje noću",
+        "correct": false
+      },
+      {
+        "text": "uvijek za vrijeme vožnje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja je uloga parkirne kočnice na motornom vozilu?",
+    "answers": [
+      {
+        "text": "osigurati vozilo u zakočenom položaju",
+        "correct": true
+      },
+      {
+        "text": "spriječiti zanošenje vozila prilikom nagloga kočenja",
+        "correct": false
+      },
+      {
+        "text": "osigurati bolje kočenje na mokrom kolniku",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako vozač motornog vozila daje znakove ostalim sudionicima u prometu?",
+    "answers": [
+      {
+        "text": "stop-svjetlima",
+        "correct": true
+      },
+      {
+        "text": "odgovarajućim znakom tijela",
+        "correct": false
+      },
+      {
+        "text": "pokazivačima smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Mogu li vozači za kretanje vozila koristiti prometu traku koja se ne prostire uz desni rub kolničke trake u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "mogu ako voze brže od vozila u desnoj prometnoj traci",
+        "correct": true
+      },
+      {
+        "text": "mogu ako svojom vožnjom ne ometaju vozila koja se kreću iza njih",
+        "correct": true
+      },
+      {
+        "text": "mogu ako voze najmanjom brzinom 120 km/h",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/25.jpg"
+    ]
+  },
+  {
+    "question": "Koja je vozila dužan propustiti vozač vozila koje skreće ulijevo?",
+    "answers": [
+      {
+        "text": "vozila koja nailaze s njegove desne strane",
+        "correct": true
+      },
+      {
+        "text": "vozila koja nailaze s njegove lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "vozila koja dolazeći iz suprotnog smjera zadržavaju smjer kretanja ili skreću udesno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zbog čega ste dužni u situaciji kao na slici propustiti oba vozila?",
+    "answers": [
+      {
+        "text": "zbog toga što se nalaze na cesti s prednošću prolaska",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što skrećete ulijevo",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/6.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega morate, u situaciji kao na slici, propustiti autobus?",
+    "answers": [
+      {
+        "text": "zbog toga što autobus zadržava smjer kretanja",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što autobus nailazi cestom s prednošću prolaska",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što se prometom upravlja semaforima",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/26.jpg"
+    ]
+  },
+  {
+    "question": "Što je dužan učiniti vozač kojemu je dan znak za pretjecanje s njegove lijeve strane?",
+    "answers": [
+      {
+        "text": "povećati brzinu kretanja",
+        "correct": false
+      },
+      {
+        "text": "pomaknuti svoje vozilo k desnom rubu kolnika",
+        "correct": true
+      },
+      {
+        "text": "ne povećavati brzinu kretanja dok drugo vozilo pretječe",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako se označuje zaustavljena kolona vozila na cesti izvan naselja?",
+    "answers": [
+      {
+        "text": "jednim sigurnosnim trokutom",
+        "correct": false
+      },
+      {
+        "text": "s dva sigurnosna trokuta postavljena jedan iza drugoga",
+        "correct": false
+      },
+      {
+        "text": "s dva sigurnosna trokuta postavljena jedan pokraj drugoga",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite cestom u situaciji kao na slici, kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "voziti ne smanjujući brzinu do obilježenoga pješačkog prijelaza",
+        "correct": false
+      },
+      {
+        "text": "na dovoljnom bočnom razmaku obići pješaka",
+        "correct": true
+      },
+      {
+        "text": "biti spreman na iznenadno kočenje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/13.jpg"
+    ]
+  },
+  {
+    "question": "Koje posljedice može izazvati kasno uočena opasnost u prometu u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "smanjenje vremena za donošenje ispravne odluke",
+        "correct": true
+      },
+      {
+        "text": "produljenje puta kočenja vozila",
+        "correct": false
+      },
+      {
+        "text": "prekasno započinjanje radnje izbjegavanja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/6.jpg"
+    ]
+  },
+  {
+    "question": "Približavate se raskrižju na kojem stoji policajac kao na slici. Što znači znak što ga policajac daje ?",
+    "answers": [
+      {
+        "text": "dopušten prolazak vozilima koja voze ravno ili skreću desno",
+        "correct": true
+      },
+      {
+        "text": "dopušten prolazak vozilima koja skreću lijevo",
+        "correct": true
+      },
+      {
+        "text": "zabrana prolaska vozilima koja voze ravno ili skreću desno",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/B7_27.JPG"
+    ]
+  },
+  {
+    "question": "Koja ploča označava posebno opasan zavoj?            1                                         2",
+    "answers": [],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/30412.jpg",
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/30405.jpg"
+    ]
+  },
+  {
+    "question": "Na što upozoravaju prometni znakovi ucrtani na kolniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "na približavanje raskrižju",
+        "correct": false
+      },
+      {
+        "text": "na ograničenje brzine 40 km na sat",
+        "correct": true
+      },
+      {
+        "text": "na obilježeni pješački prijelaz",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/39.jpg"
+    ]
+  },
+  {
+    "question": "Kako smijete postupiti u situaciji kao na slici ako namjeravate skrenuti udesno?",
+    "answers": [
+      {
+        "text": "uključiti desni pokazivač smjera",
+        "correct": true
+      },
+      {
+        "text": "moram zaustaviti vozilo",
+        "correct": false
+      },
+      {
+        "text": "smijem skrenuti udesno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/39.jpg"
+    ]
+  },
+  {
+    "question": "Koji prometni znak označuje zabranu prometa za sva motorna vozila?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/10.jpg"
+    ]
+  },
+  {
+    "question": "Na koju opasnost vas upozorava ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "da smijete vozilo parkirati na bankinu",
+        "correct": false
+      },
+      {
+        "text": "da je uz rub kolnika neutvrđena bankina",
+        "correct": true
+      },
+      {
+        "text": "na opasnost koja se odnosi samo na osobna vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/20.jpg"
+    ]
+  },
+  {
+    "question": "Koji od prometnih znakova na slici pripadaju znakovima opasnosti?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": true
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/11.jpg"
+    ]
+  },
+  {
+    "question": "O čemu tijekom vožnje morate naročito voditi računa u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "o produljenom vremenu reagiranja",
+        "correct": false
+      },
+      {
+        "text": "o razmaku od vozila ispred",
+        "correct": true
+      },
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_38.jpg"
+    ]
+  },
+  {
+    "question": "Koliki potreban razmak vozač vozila mora držati od vozila ispred u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "razmak koji odgovara najmanje putu reagiranja",
+        "correct": false
+      },
+      {
+        "text": "razmak od najmanje jedne sekunde",
+        "correct": false
+      },
+      {
+        "text": "razmak od najmanje dvije sekunde",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_53.jpg"
+    ]
+  },
+  {
+    "question": "O čemu ovisi veličina centrifugalne sile pri vožnji kroz zavoj?",
+    "answers": [
+      {
+        "text": "o masi vozila",
+        "correct": true
+      },
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      },
+      {
+        "text": "o stanju kolnika",
+        "correct": false
+      },
+      {
+        "text": "o  polumjeru zavoja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što povećava umor vozača za vrijeme vožnje?",
+    "answers": [
+      {
+        "text": "vožnja noću",
+        "correct": true
+      },
+      {
+        "text": "ugodna mikroklima u vozilu",
+        "correct": false
+      },
+      {
+        "text": "dugotrajna brza vožnja autocestom",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "U prometu, prema kojim se sudionicima vozač ne smije bez opreza pouzdati na načelo povjerenja?",
+    "answers": [
+      {
+        "text": "prema djeci",
+        "correct": true
+      },
+      {
+        "text": "prema sudionicima drugog spola",
+        "correct": false
+      },
+      {
+        "text": "prema osobama koje su vidno pod utjecajem alkohola",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je motorno vozilo?",
+    "answers": [
+      {
+        "text": "svako vozilo koje se pokreće snagom vlastitog motora, osim vozila koja se kreću po tračnicama",
+        "correct": true
+      },
+      {
+        "text": "svako prijevozno sredstvo namijenjeno za kretanje po cesti",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koje isprave mora imati uza se vozač kad upravlja vozilom?",
+    "answers": [
+      {
+        "text": "knjižicu vozila",
+        "correct": false
+      },
+      {
+        "text": "prometnu dozvolu",
+        "correct": true
+      },
+      {
+        "text": "vozačku dozvolu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite zelenim valom u situaciji kao na slici. O čemu morate voditi računa?",
+    "answers": [
+      {
+        "text": "o brzini prometnog toka",
+        "correct": true
+      },
+      {
+        "text": "o vozilima u usporednim kolonama",
+        "correct": true
+      },
+      {
+        "text": "o oznakama na kolniku",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/27.jpg"
+    ]
+  },
+  {
+    "question": "Vozeći cestom s jednosmjernim prometom približavate se zaustavljenom autobusu u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "oprezno obaviti obilaženje autobusa",
+        "correct": false
+      },
+      {
+        "text": "predvidjeti mogući nailazak djece ispred autobusa",
+        "correct": true
+      },
+      {
+        "text": "što brže obaviti pretjecanje autobusa",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/3.jpg"
+    ]
+  },
+  {
+    "question": "Što podrazumijeva vožnja prilagođenom brzinom?",
+    "answers": [
+      {
+        "text": "vožnju brzinom prilagođenom uvjetima vožnje",
+        "correct": true
+      },
+      {
+        "text": "mogućnost pravodobnog zaustavljanja vozila pred svakom zaprekom",
+        "correct": true
+      },
+      {
+        "text": "vožnju najvećom brzinom do željenog odredišta",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Prema čemu ćete prilagoditi brzine vožnje prije ulaska u zavoj?",
+    "answers": [
+      {
+        "text": "prema polumjeru zavoja i poprečnom nagibu kolnika",
+        "correct": true
+      },
+      {
+        "text": "prema vrsti i stanju kolnika",
+        "correct": true
+      },
+      {
+        "text": "prema tlaku zraka u gumama",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/71.jpg"
+    ]
+  },
+  {
+    "question": "O čemu treba voditi računa tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "o održavanju potrebnog razmaka",
+        "correct": true
+      },
+      {
+        "text": "o brzini vožnje i stanju kolnika",
+        "correct": true
+      },
+      {
+        "text": "o vozilima iz suprotnog smjera",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12.1/42.jpg"
+    ]
+  },
+  {
+    "question": "Koliko metara ceste mora osvijetliti svjetlosni snop svjetala za maglu?",
+    "answers": [
+      {
+        "text": "najviše 35 metara ceste",
+        "correct": true
+      },
+      {
+        "text": "najviše 55 metara ceste",
+        "correct": false
+      },
+      {
+        "text": "najviše 100 metara ceste",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Tko je dužan tijekom vožnje u vozilu koristiti sigurnosni pojas?",
+    "answers": [
+      {
+        "text": "isključivo vozač i suvozač",
+        "correct": false
+      },
+      {
+        "text": "vozač i svi putnici u vozilu",
+        "correct": true
+      },
+      {
+        "text": "isključivo vozač",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što karakterizira ekonomičnu vožnju?",
+    "answers": [
+      {
+        "text": "maksimalna potrošnja goriva",
+        "correct": false
+      },
+      {
+        "text": "ušteda novca",
+        "correct": true
+      },
+      {
+        "text": "čistiji okoliš",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko je ograničenje brzine kretanja vozila na cesti u naselju u kojemu brzina kretanja nije određena prometnim znakom?",
+    "answers": [
+      {
+        "text": "50 km na sat",
+        "correct": true
+      },
+      {
+        "text": "60 km na sat",
+        "correct": false
+      },
+      {
+        "text": "80 km na sat",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako treba postupiti vozač vozila koji se svojim vozilom kreće unatrag u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "propustiti vozilo koje dolazi iz suprotnog smjera",
+        "correct": false
+      },
+      {
+        "text": "propustiti vozilo koje dolazi iza njegovog vozila",
+        "correct": true
+      },
+      {
+        "text": "uključiti sve pokazivače smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/37.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti na raskrižju cesta iste važnosti?",
+    "answers": [
+      {
+        "text": "propustiti vozila koja nailaze s vaše lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "propustiti vozila koja nailaze s vaše desne strane",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zbog čega ste u situaciji kada je na semaforu upaljeno žuto trepteće svjetlo kao na slici, dužni propustiti motocikl?",
+    "answers": [
+      {
+        "text": "zbog toga što nailazi s moje desne strane",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što se kreće cestom s prednošću prolaska",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što vozilom nailazite na sporednu cestu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/39.jpg"
+    ]
+  },
+  {
+    "question": "Smije li vozač obilaziti drugo vozilo koje se zaustavilo radi propuštanja pješaka koji prelaze preko obilježenoga pješačkog prijelaza?",
+    "answers": [
+      {
+        "text": "ne smije obilaziti",
+        "correct": true
+      },
+      {
+        "text": "smije obilaziti",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako morate postupiti za vrijeme vožnje kroz tunel u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "umjesto dugih svjetala imati uključena kratka svjetla",
+        "correct": true
+      },
+      {
+        "text": "voziti samo sa svjetlima za označivanje vozila",
+        "correct": false
+      },
+      {
+        "text": "pridržavati se prometnih znakova zabrana i ograničenja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/33.jpg"
+    ]
+  },
+  {
+    "question": "Vozite automobil cestom u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "smanjiti brzinu i očekivati iznenadne postupke biciklista",
+        "correct": true
+      },
+      {
+        "text": "voziti ne smanjujući brzinu jer biciklist vozi biciklističkom stazom",
+        "correct": false
+      },
+      {
+        "text": "voziti na sigurnom bočnom razmaku od biciklista",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/32.jpg"
+    ]
+  },
+  {
+    "question": "S čime mora računati vozač za vožnje noću?",
+    "answers": [
+      {
+        "text": "s time da se možda cestom kreće pješak koji se slabo uočava",
+        "correct": true
+      },
+      {
+        "text": "s tim da je možda na kolniku zaustavljeno vozilo koje nije osvijetljeno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti približavajući se vozilom policijskom službeniku u situaciji kao na slici ako namjeravate skrenuti ulijevo?",
+    "answers": [
+      {
+        "text": "obvezno zaustaviti vozilo",
+        "correct": false
+      },
+      {
+        "text": "voziti u smjeru ispružene ruke",
+        "correct": true
+      },
+      {
+        "text": "pratiti znak policijskog službenika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/7.jpg"
+    ]
+  },
+  {
+    "question": "Što označuje ovaj ploča?",
+    "answers": [
+      {
+        "text": "obavezno skretanje u lijevo na prvom slijedećem raskrižju",
+        "correct": false
+      },
+      {
+        "text": "signalna ploča za označavanje mjesta izvođenja radova na cesti ili oštećenja kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/30683.jpg"
+    ]
+  },
+  {
+    "question": "Što označuje rubna crta na kolniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "prometnu traku",
+        "correct": false
+      },
+      {
+        "text": "kolničku traku",
+        "correct": false
+      },
+      {
+        "text": "rub vozne površine kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/10.jpg"
+    ]
+  },
+  {
+    "question": "Na koju zabranu ukazuje ovaj prometni znak s dopunskom pločom?",
+    "answers": [
+      {
+        "text": "na zabranu zaustavljanja i parkiranja u vremenu od 16 do 18 sati",
+        "correct": true
+      },
+      {
+        "text": "na mjesto gdje je dopušteno zaustavljanje i parkiranje u vremenu od 16 do 18 sati",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/29.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti kad naiđete na ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "smanjiti brzinu i povećati oprez",
+        "correct": true
+      },
+      {
+        "text": "voziti nesmanjenom brzinom",
+        "correct": false
+      },
+      {
+        "text": "preko pruge prijeći tek kada se uvjerite da ne nailazi vlak",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/17.jpg"
+    ]
+  },
+  {
+    "question": "Što karakterizira brzu cestu?",
+    "answers": [
+      {
+        "text": "jedna ili dvije razdvojene kolničke trake",
+        "correct": true
+      },
+      {
+        "text": "raskrižja s poprečnim cestama u dvije ili više razina",
+        "correct": true
+      },
+      {
+        "text": "trake za zaustavljanje vozila u nuždi",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kakvo ponašanje ostalih vozača može očekivati vozač koji uvažava druge sudionike u prometu?",
+    "answers": [
+      {
+        "text": "uvažavanje od većine drugih vozača",
+        "correct": true
+      },
+      {
+        "text": "netolerantno ponašanje drugih vozača",
+        "correct": false
+      },
+      {
+        "text": "pomoć drugih kulturnih vozača",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je masa vozila?",
+    "answers": [
+      {
+        "text": "masa vozila je masa u stanju spremnom za vožnju u skladu s homologacijskim zahtjevima",
+        "correct": true
+      },
+      {
+        "text": "masa praznog vozila s praznim spremnikom goriva i bez obveznog pribora i opreme za vozilo",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom najvećom brzinom na cesti smije upravljati vozilom mladi vozač koji posjeduje vozačku dozvolu B kategorije?",
+    "answers": [
+      {
+        "text": "brzinom do 70 km na sat",
+        "correct": false
+      },
+      {
+        "text": "brzinom do 80 km na sat",
+        "correct": false
+      },
+      {
+        "text": "brzinom do 90 km na sat",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja su bitna obilježja vožnje u gradu?",
+    "answers": [
+      {
+        "text": "mala količina ispušnih plinova od vozila",
+        "correct": false
+      },
+      {
+        "text": "velik broj prometnih znakova",
+        "correct": true
+      },
+      {
+        "text": "različita struktura vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/2.jpg"
+    ]
+  },
+  {
+    "question": "Vozite vozilom desnom prometnom trakom u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "oprezno obaviti pretjecanje autobusa",
+        "correct": false
+      },
+      {
+        "text": "zvučnim znakom upozoriti vozača autobusa na neoprezno uključivanje u promet",
+        "correct": false
+      },
+      {
+        "text": "omogućiti autobusu uključivanje u promet",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/5.jpg"
+    ]
+  },
+  {
+    "question": "U kojim je situacijama potrebno povećati vremenski razmak u vožnji između vozila od dvije sekunde na tri sekunde?",
+    "answers": [
+      {
+        "text": "ako vozilom upravljaju mladi vozači s nedovoljno vozačkog iskustva",
+        "correct": true
+      },
+      {
+        "text": "ako je magla, mokar i sklizak kolnik",
+        "correct": true
+      },
+      {
+        "text": "ako se vozi iza vozila koje prevozi životinje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na koje opasnosti morate računati dok pretječete u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "na vozila koja nailaze iz suprotnog smjera",
+        "correct": true
+      },
+      {
+        "text": "na smanjenu duljinu puta pretjecanja",
+        "correct": false
+      },
+      {
+        "text": "na premalu brzinu vozila koje pretječete",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/2.jpg"
+    ]
+  },
+  {
+    "question": "Što je dužna učiniti osoba koja naiđe na mjesto prometne nesreće u kojoj ima ozlijeđenih osoba?",
+    "answers": [
+      {
+        "text": "pružiti pomoć osobama ozlijeđenim u prometnoj nesreći",
+        "correct": true
+      },
+      {
+        "text": "popuniti Europsko izvješće o prometnoj nesreći",
+        "correct": false
+      },
+      {
+        "text": "što prije napustiti mjesto prometne nesreće",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja svjetla za osvjetljavanje ceste, u pravilu, vozač vozila upotrebljava?",
+    "answers": [
+      {
+        "text": "kratka svjetla",
+        "correct": false
+      },
+      {
+        "text": "duga svjetla",
+        "correct": true
+      },
+      {
+        "text": "pozicijska svjetla",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što vozaču omogućuju vozačka zrcala tijekom vožnje?",
+    "answers": [
+      {
+        "text": "promatranje ceste i praćenje prometa iza vozila",
+        "correct": true
+      },
+      {
+        "text": "promatranje i praćenje ceste ispred vozila",
+        "correct": false
+      },
+      {
+        "text": "promatranje i praćenje ceste pokraj vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko metara ceste mora osvijetliti svjetlosni snop dugog svjetla ispred vozila noću?",
+    "answers": [
+      {
+        "text": " najmanje 40, a najviše 80 metara",
+        "correct": false
+      },
+      {
+        "text": " najmanje 100 metara",
+        "correct": true
+      },
+      {
+        "text": " najviše 80 metara",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smijete li vući neispravno vozilo autocestom, ako je kvar nastao na autocesti?",
+    "answers": [
+      {
+        "text": "da, ali smo krutom vezom",
+        "correct": false
+      },
+      {
+        "text": "da, ali samo do prvog izlaza",
+        "correct": true
+      },
+      {
+        "text": "ne, ne smije",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što mora učiniti vozač prije započinjanja neke radnje vozilom  u prometu?",
+    "answers": [
+      {
+        "text": "uvjeriti se da radnju može obaviti bez opasnosti za druge sudionike u prometu",
+        "correct": true
+      },
+      {
+        "text": "uvjeriti se da radnju može obaviti uz što manji razmak između vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "O čemu se mora voditi računa prilikom mijenjanja prometne trake?",
+    "answers": [
+      {
+        "text": "o bočnim smetnjama uz cestu",
+        "correct": false
+      },
+      {
+        "text": "o sigurnosti drugih sudionika",
+        "correct": true
+      },
+      {
+        "text": "o položaju vozila, smjeru i brzini vožnje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti ako je na semaforu upaljeno žuto trepteće svjetlo u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "propustiti motocikl i voziti prije autobusa",
+        "correct": true
+      },
+      {
+        "text": "voziti prvi kroz raskrižje",
+        "correct": false
+      },
+      {
+        "text": "voziti zadnji kroz raskrižje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/40.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega ne smijete pretjecati vozilo u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "zbog prometnog znaka \"zabranjeno pretjecanje\"",
+        "correct": false
+      },
+      {
+        "text": "zbog oznaka na kolniku",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što je nepregledan zavoj",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.3/38.jpg"
+    ]
+  },
+  {
+    "question": "Što se smatra prekidom kretanja vozila na cesti u trajanju do tri minute osim prekida koji se čini da bi se postupilo po prometnom znaku ili pravilu?",
+    "answers": [
+      {
+        "text": "zaustavljanje vozila",
+        "correct": true
+      },
+      {
+        "text": "parkiranje vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako se djeca ponašaju u prometu na cesti?",
+    "answers": [
+      {
+        "text": "ne prepoznaju opasnost",
+        "correct": true
+      },
+      {
+        "text": "nepravilno procjenjuju brzinu vozila",
+        "correct": true
+      },
+      {
+        "text": "u skladu s prometnim propisima",
+        "correct": false
+      },
+      {
+        "text": "pažljivo i odgovorno",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Pomoću čega vozač obavlja provjeru prometnih uvjeta?",
+    "answers": [
+      {
+        "text": "pomoću unutarnjeg zrcala, vanjskih zrcala i pogledom preko ramena",
+        "correct": true
+      },
+      {
+        "text": "samo pomoću vanjskih zrcala i pogledom preko ramena",
+        "correct": false
+      },
+      {
+        "text": "samo pomoću unutarnjeg zrcala i vanjskih zrcala",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/44.jpg"
+    ]
+  },
+  {
+    "question": "Čemu služe smjerokazni stupići u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "za označavanje ruba kolnika",
+        "correct": true
+      },
+      {
+        "text": "za označavanje obveznog smjera kretanja",
+        "correct": false
+      },
+      {
+        "text": "za označavanje naprava za smirivanje prometa",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.4/3.jpg"
+    ]
+  },
+  {
+    "question": "Koje prometne površine u situaciji kao na slici su označene žutom bojom?",
+    "answers": [
+      {
+        "text": "biciklistička traka",
+        "correct": false
+      },
+      {
+        "text": "stajalište autobusa",
+        "correct": true
+      },
+      {
+        "text": "biciklistička staza",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/5.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti pri nailasku na ovaj prometni znak ako pješaci namjeravaju prijeći kolnik?",
+    "answers": [
+      {
+        "text": "povećanom brzinom proći prije pješaka",
+        "correct": false
+      },
+      {
+        "text": "smanjiti brzinu vožnje",
+        "correct": true
+      },
+      {
+        "text": "prema potrebi zaustaviti vozilo",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/5.jpg"
+    ]
+  },
+  {
+    "question": "Na koju zabranu ukazuje ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "na zabranu prometa u jednom smjeru",
+        "correct": true
+      },
+      {
+        "text": "na zabranu prometa u oba smjera",
+        "correct": false
+      },
+      {
+        "text": "na zabranu prometa samo za osobne automobile",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/18.jpg"
+    ]
+  },
+  {
+    "question": "Kojim je motornim vozilima nakon ovoga prometnog znaka zabranjen promet?",
+    "answers": [
+      {
+        "text": "vozilima na tračnicama",
+        "correct": false
+      },
+      {
+        "text": "svim motornim vozilima osim motociklima bez prikolice i mopedima",
+        "correct": true
+      },
+      {
+        "text": "motociklima bez prikolice i mopedima",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/27.jpg"
+    ]
+  },
+  {
+    "question": "Što je vrijeme reagiranja?",
+    "answers": [
+      {
+        "text": "vrijeme koje protekne od trenutka kada je vozač uočio opasnost na cesti do potpunog zaustavljanja vozila",
+        "correct": false
+      },
+      {
+        "text": "vrijeme koje protekne od trenutka uočavanja opasnosti na cesti do reakcije na tu opasnost",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom se cestom kreće vozilo u situaciji kao na slici s obzirom na prometni znak?",
+    "answers": [
+      {
+        "text": "brzom cestom",
+        "correct": true
+      },
+      {
+        "text": "autocestom",
+        "correct": false
+      },
+      {
+        "text": "cestom namijenjenom isključivo za promet motornih vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3/Cesta%20i%20njena%20obiljezja_2.jpg"
+    ]
+  },
+  {
+    "question": "Tko je vozač?",
+    "answers": [
+      {
+        "text": "osoba koja na cesti upravlja vozilom",
+        "correct": true
+      },
+      {
+        "text": "osoba osposobljena za vozača u autoškoli",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smije li osoba koja je dobila uvjerenje o položenom vozačkom ispitu upravljati vozilom?",
+    "answers": [
+      {
+        "text": "smije",
+        "correct": false
+      },
+      {
+        "text": "smije samo u pratnji iskusnog vozača",
+        "correct": false
+      },
+      {
+        "text": "ne smije",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom se najvećom dopuštenom brzinom smije voziti u naselju ako prometnim znakom nije drukčije određeno? Upišite odgovor u kvadratić.",
+    "answers": [],
+    "imagesUrls": []
+  },
+  {
+    "question": "Čemu je vozač dužan prilagoditi brzinu vožnje?",
+    "answers": [
+      {
+        "text": "vremenskim uvjetima",
+        "correct": true
+      },
+      {
+        "text": "gustoći i strukturi prometnog toka",
+        "correct": true
+      },
+      {
+        "text": "maksimalnoj snazi motora svog vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/13.jpg"
+    ]
+  },
+  {
+    "question": "Prometna traka kojom vozite završava kao u situaciji na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "propustiti vozila koja se kreću desnom trakom",
+        "correct": true
+      },
+      {
+        "text": "ne ometati vozila u koloni u koju se uključujete",
+        "correct": true
+      },
+      {
+        "text": "voziti prije vozila koja se kreću desnom trakom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/3.jpg"
+    ]
+  },
+  {
+    "question": "Kako treba postupiti sudionik u prometnoj nesreći u kojoj je netko izgubio život ili je ozlijeđen ili je nastala veća materijalna šteta?",
+    "answers": [
+      {
+        "text": "dužan je ostati na mjestu nesreće, s time što se može privremeno udaljiti",
+        "correct": true
+      },
+      {
+        "text": "dužan je poduzeti sve što je u njegovoj moći da se otklone nove opasnosti",
+        "correct": true
+      },
+      {
+        "text": "dužan je odmah napustiti mjesto prometne nesreće",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite vozilo s upaljenim kratkim svjetlima. Kako ćete postupiti ako vozilo koje vam dolazi iz suprotnog smjera ima upaljena duga svjetla?",
+    "answers": [
+      {
+        "text": "smanjiti brzinu vožnje prema uvjetima vidljivosti",
+        "correct": true
+      },
+      {
+        "text": "pogled usmjeriti na vozilo iz suprotnog smjera",
+        "correct": false
+      },
+      {
+        "text": "naizmjeničnim paljenjem dugih i kratkih svjetala dati znak upozorenja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smije li se osobnim automobilom, u situaciji kao na slici, nastaviti vožnju?",
+    "answers": [
+      {
+        "text": "smije",
+        "correct": true
+      },
+      {
+        "text": "ne smije",
+        "correct": false
+      },
+      {
+        "text": "smije, samo subotom i nedjeljom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12.1/38.jpg"
+    ]
+  },
+  {
+    "question": "Koji od uređaja na vozilu omogućuje normalnu vidljivost iz vozila?",
+    "answers": [
+      {
+        "text": "vjetrobran i prozorska stakla kabine",
+        "correct": true
+      },
+      {
+        "text": "glavna svjetla",
+        "correct": false
+      },
+      {
+        "text": "uređaj za brisanje vjetrobrana",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko najmanje metara ceste mora osvijetliti snop kratkog svjetla ispred vozila noću?",
+    "answers": [],
+    "imagesUrls": []
+  },
+  {
+    "question": "U osobnom automobilu na prednjem sjedištu ne smije se prevoziti:",
+    "answers": [
+      {
+        "text": "djecu nižu od 150 cm ako nisu smještena u posebnoj sjedalici/postolju",
+        "correct": true
+      },
+      {
+        "text": "osobu koja je pod utjecajem alkohola ili droge",
+        "correct": false
+      },
+      {
+        "text": "osobu mlađu od 12 godina",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko priključnih vozila može biti pridodano motornom vozilu u prometu na javnoj cesti, osim na autocesti, brzoj cesti i cesti namijenjenoj isključivo za promet motornih vozila?",
+    "answers": [
+      {
+        "text": "dva priključna vozila, jedno za prijevoz tereta i jedno za prijevoz osoba",
+        "correct": false
+      },
+      {
+        "text": "najviše dva priključna vozila za prijevoz tereta",
+        "correct": true
+      },
+      {
+        "text": "jedno priključno vozilo za prijevoz osoba",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "U kojom slučajevima se vozač svojim vozilom na cesti može kretati unatrag?",
+    "answers": [
+      {
+        "text": "ako su na cesti najmanje dvije prometne trake za kretanje vozila u jednom smjeru",
+        "correct": false
+      },
+      {
+        "text": "ako će to učiniti samo na kratkom dijelu ceste",
+        "correct": true
+      },
+      {
+        "text": "ako ne ugrožava ili ne ometa druge sudionike u prometu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom se prometnom trakom, u pravilu, dužan kretati vozač vozilom?",
+    "answers": [
+      {
+        "text": "prometnom trakom koja se proteže sredinom kolnika",
+        "correct": false
+      },
+      {
+        "text": "prometnom trakom koja se proteže uz desni rub kolnika",
+        "correct": true
+      },
+      {
+        "text": "prometnom trakom koja se proteže uz lijevi rub kolnika",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je mijenjanje prometne trake?",
+    "answers": [
+      {
+        "text": "prelaženje vozilom u drugu prometnu traku namijenjenu za promet iz suprotnog smjera",
+        "correct": false
+      },
+      {
+        "text": "prelaženje vozilom iz jedne u drugu prometnu traku za promet u istom smjeru",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Približavate se ovom raskrižju. Na semaforu je upaljeno žuto treptavo svjetlo. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "propustiti vozilo koje dolazi sa desne strane",
+        "correct": true
+      },
+      {
+        "text": "propustiti autobus i vozilo koje dolazi s ljeve strane",
+        "correct": false
+      },
+      {
+        "text": "voziti prije autobusa i vozila koje dolazi s ljeve strane",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/44.jpg"
+    ]
+  },
+  {
+    "question": "Zbog čega ste dužni u situaciji kao na slici propustiti sivo vozilo?",
+    "answers": [
+      {
+        "text": "zbog toga što nailazi cestom bez suvremenoga kolničkog zastora",
+        "correct": false
+      },
+      {
+        "text": "zbog toga što nailazi s desne strane",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što se nalazite na sporednoj cesti",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/3.jpg"
+    ]
+  },
+  {
+    "question": "Smije li vozač svojim vozilom pretjecati kolonu vozila?",
+    "answers": [
+      {
+        "text": "smije",
+        "correct": false
+      },
+      {
+        "text": "ne smije",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smije li se zaustavljati ili parkirati vozilo na mjestima u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "smije",
+        "correct": false
+      },
+      {
+        "text": "ne smije",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/207.JPG"
+    ]
+  },
+  {
+    "question": "Kojom stranom su se dužni kretati pješaci kada se kreču cestom izvan naselja ?",
+    "answers": [
+      {
+        "text": "desnom stranom u smjeru vožnje",
+        "correct": false
+      },
+      {
+        "text": "lijevom stranom u smjeru vožnje",
+        "correct": true
+      },
+      {
+        "text": "bilo kojom stranom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što najčešće dovodi do pogrešne procjene brzine tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "procjena brzine temeljem iskustva",
+        "correct": true
+      },
+      {
+        "text": "procjena brzine putem brzinomjera",
+        "correct": false
+      },
+      {
+        "text": "prilagodba na do tada veču brzinu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/33.jpg"
+    ]
+  },
+  {
+    "question": "Koja vozila smiju proći kroz raskrižje na kojem prometom upravlja policijski službenik u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "vozila koja nailaze s bočnih strana policijskog službenika",
+        "correct": false
+      },
+      {
+        "text": "vozila koja se nakon znaka ne mogu na siguran način zaustaviti",
+        "correct": true
+      },
+      {
+        "text": "vozila koja na raskrižju skreću udesno",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/3.jpg"
+    ]
+  },
+  {
+    "question": "Čemu služi dvostruka kombinirana crta na kolniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "za dopuštanje pretjecanja samo u jednom smjeru",
+        "correct": true
+      },
+      {
+        "text": "za dopuštanje pretjecanja u oba smjera",
+        "correct": false
+      },
+      {
+        "text": "za zabranu pretjecanja u oba smjera",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/21.jpg"
+    ]
+  },
+  {
+    "question": "Koji od prometnih znakova najavljuje približavanje raskrižju na kojemu se prometom upravlja prometnim svjetlima - semaforima?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": true
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/41.jpg"
+    ]
+  },
+  {
+    "question": "Kako se u prometu na cesti čitaju prometni znakovi?",
+    "answers": [
+      {
+        "text": "u smjeru vožnje odozdo prema gore",
+        "correct": true
+      },
+      {
+        "text": "u smjeru vožnje odozgo prema dolje",
+        "correct": false
+      },
+      {
+        "text": "slijeva udesno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "O čemu ovisi duljina puta reagiranja?",
+    "answers": [
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      },
+      {
+        "text": "o vremenskim prilikama",
+        "correct": false
+      },
+      {
+        "text": "o vremenu reagiranja vozača",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što može povećati pozornost vozača za vrijeme vožnje?",
+    "answers": [
+      {
+        "text": "koncentracija na vožnju",
+        "correct": true
+      },
+      {
+        "text": "predviđanje i očekivanje opasnosti",
+        "correct": true
+      },
+      {
+        "text": "razgovor mobitelom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "O čemu morate voditi računa u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "o stanju kolnika",
+        "correct": true
+      },
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      },
+      {
+        "text": "o opasnoj uzbrdici",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3/Cesta%20i%20njena%20obiljezja_23.jpg"
+    ]
+  },
+  {
+    "question": "Kako mora postupiti vozač kada osjeti prve znake umora?",
+    "answers": [
+      {
+        "text": "izdržati što dulje do odredišta i onda se dobro odmoriti",
+        "correct": false
+      },
+      {
+        "text": "odmah, na prikladnom mjestu, kratko se odmoriti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koji čimbenici povećavaju ispravnost odluke na opasnu situaciju u prometu?",
+    "answers": [
+      {
+        "text": "dobra vidljivost iz vozila",
+        "correct": true
+      },
+      {
+        "text": "znanje vozača o stanju vozila",
+        "correct": true
+      },
+      {
+        "text": "umor vozača",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što prikazuje situacija na slici?",
+    "answers": [
+      {
+        "text": "biciklističku stazu",
+        "correct": true
+      },
+      {
+        "text": "biciklističku traku",
+        "correct": false
+      },
+      {
+        "text": "pješačku stazu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/Propisi%20u%20cestovnom%20prometu_24.jpg"
+    ]
+  },
+  {
+    "question": "Kojom najvećom brzinom na cesti namijenjenoj isključivo za promet motornih vozila smije upravljati vozilom mladi vozač koji posjeduje vozačku dozvolu B kategorije?",
+    "answers": [
+      {
+        "text": "brzinom do 90 km na sat",
+        "correct": false
+      },
+      {
+        "text": "brzinom do 110 km na sat",
+        "correct": true
+      },
+      {
+        "text": "brzinom do 100 km na sat",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom brzinom vam je dopušteno voziti nakon znaka u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "brzinom do 40 km na sat kroz cijelo naselje",
+        "correct": false
+      },
+      {
+        "text": "brzinom do 50 km na sat nakon izlaska iz tog područja",
+        "correct": true
+      },
+      {
+        "text": "brzinom do 40 km na sat do prvoga raskrižja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/14.jpg"
+    ]
+  },
+  {
+    "question": "Što je zabranjeno za vožnje u kolonama vozila u gradu?",
+    "answers": [
+      {
+        "text": "pretjecati kolonu vozila",
+        "correct": true
+      },
+      {
+        "text": "voziti slalomski",
+        "correct": true
+      },
+      {
+        "text": "isključivati se iz kolone radi skretanja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "U kojim je situacijama potrebno povećati vremenski razmak u vožnji između vozila na više od tri sekunde?",
+    "answers": [
+      {
+        "text": "kada su na cesti zimski uvjeti",
+        "correct": true
+      },
+      {
+        "text": "kada se vozi iza vozila javnog prijevoza putnika",
+        "correct": false
+      },
+      {
+        "text": "kada se vozi iza vozila koje prevozi opasne tvari",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako morate propisno obilježiti vozilo koje ste zbog opravdanih razloga zaustavili na cesti?",
+    "answers": [
+      {
+        "text": "sigurnosnim trokutom na najmanje 200 metara iza vozila",
+        "correct": false
+      },
+      {
+        "text": "sigurnosnim trokutom na najmanje 100 metara iza vozila",
+        "correct": true
+      },
+      {
+        "text": "reflektirajućom svjetiljkom na krovu vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/22.jpg"
+    ]
+  },
+  {
+    "question": "Što su dužni učiniti vozači sudionici prometne nesreće u kojoj je nastala manja materijalna šteta na vozilima?",
+    "answers": [
+      {
+        "text": "odmah ukloniti vozila s kolnika",
+        "correct": true
+      },
+      {
+        "text": "omogućiti nesmetano odvijanje prometa",
+        "correct": true
+      },
+      {
+        "text": "popuniti i potpisati Europsko izvješće o nesreći ili na drugi način razmijeniti podatke",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja svjetla za osvjetljenje ceste, u pravilu, morate koristiti na cesti izvan naselja u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "duga svjetla",
+        "correct": true
+      },
+      {
+        "text": "kratka svjetla",
+        "correct": false
+      },
+      {
+        "text": "stražnje svjetlo za maglu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12/18.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti kada se tijekom vožnje na instrumentnoj ploči upali žaruljica kao na slici?",
+    "answers": [
+      {
+        "text": "isključiti se vozilom iz prometa",
+        "correct": true
+      },
+      {
+        "text": "na prvoj benzinskoj postaji točiti gorivo",
+        "correct": false
+      },
+      {
+        "text": "provjeriti radnu temperaturu motora",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/8/18.jpg"
+    ]
+  },
+  {
+    "question": "Vozač osobnog automobila smije na sjedalima koja nisu prednja prevoziti djecu:",
+    "answers": [
+      {
+        "text": "visoku barem 135 cm, koja nisu smještena u sigurnosnoj sjedalici/postolju, ukolliko su ona pravilno vezana sigurnosnim pojasom za odrasle",
+        "correct": true
+      },
+      {
+        "text": "ukoliko je drži odrasla osoba",
+        "correct": false
+      },
+      {
+        "text": "stariju od 5 godina bez obzira na visinu djeteta",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koga ne smijete prevoziti na prednjem sjedalu svog osobnog automobila?",
+    "answers": [
+      {
+        "text": "djecu nižu od 150 cm",
+        "correct": true
+      },
+      {
+        "text": "osobu koja je pod utjecajem alkohola ili droge",
+        "correct": false
+      },
+      {
+        "text": "dijete mlađe od 12 godina",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koju prometnu površinu vozač mora u pravilu koristiti za kretanje motornog vozila?",
+    "answers": [
+      {
+        "text": "nogostup",
+        "correct": false
+      },
+      {
+        "text": "isključivo kolnik",
+        "correct": true
+      },
+      {
+        "text": "pješačku stazu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako je vozač dužan obavijestiti druge sudionike u prometu o svojim namjerama?",
+    "answers": [
+      {
+        "text": "jasnim i pravodobnim upozorenjem dajući im znak pomoću pokazivača smjera",
+        "correct": true
+      },
+      {
+        "text": "naizmjeničnim davanjem zvučnog znaka",
+        "correct": false
+      },
+      {
+        "text": "ne treba ih obavješćivati davajući znak",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Približavate se vozilom raskrižju na kojem se prometnom upravlja semaforima. Kada smijete nastaviti vožnju?",
+    "answers": [
+      {
+        "text": "nakon što propustite sve sudionike u prometu koji se kreću smjerom u kojemu je promet dopušten ne čekajući promjenu svjetla na semaforu",
+        "correct": false
+      },
+      {
+        "text": "nakon što se za vaš smjer kretanja upali zeleno svjetlo",
+        "correct": true
+      },
+      {
+        "text": "odmah, bez obzira na to koje je svjetlo upaljeno na semaforu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smijete li započeti pretjecanje teretnog automobila u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "ne smijete, jer to nije dopušteno oznakama na kolniku",
+        "correct": false
+      },
+      {
+        "text": "smijete nakon što osobni automobil obavi pretjecanje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.3/18.jpg"
+    ]
+  },
+  {
+    "question": "U koliko smjerova se odvija promet u tunelu, u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "u jednom smjeru",
+        "correct": false
+      },
+      {
+        "text": "u dva smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/35.jpg"
+    ]
+  },
+  {
+    "question": "Kakvo ponašanje djece možete očekivati u prometu na cesti?",
+    "answers": [
+      {
+        "text": "nepropisno ponašanje",
+        "correct": true
+      },
+      {
+        "text": "ponašanje u skladu s prometnim propisima",
+        "correct": false
+      },
+      {
+        "text": "nepredvidivo i nepromišljeno ponašanje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "O čemu ovisi kvaliteta percepcije prometne situacije tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "o sposobnostima vozača",
+        "correct": true
+      },
+      {
+        "text": "o snazi automobila kojim vozač upravlja",
+        "correct": false
+      },
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/24.jpg"
+    ]
+  },
+  {
+    "question": "Što označuje prometna površina desno od žute isprekidane crte?",
+    "answers": [
+      {
+        "text": "prometnu traku za spora vozila",
+        "correct": false
+      },
+      {
+        "text": "prometnu traku za zaustavljanje u nuždi",
+        "correct": false
+      },
+      {
+        "text": "prometnu traku namijenjenu za vozila javnog prijevoza putnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/4.jpg"
+    ]
+  },
+  {
+    "question": "Na što ukazuje ovaj prometni znak obavijesti?",
+    "answers": [
+      {
+        "text": "na zonu u kojoj je preporučena brzina vožnje 30 km na sat",
+        "correct": false
+      },
+      {
+        "text": "na zonu u kojoj vozila moraju voziti brzinom većom od 30 km na sat",
+        "correct": false
+      },
+      {
+        "text": "na zonu u kojoj je ograničena brzina vožnje 30 km na sat",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/10.jpg"
+    ]
+  },
+  {
+    "question": "Kako treba postupiti vozač u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "ne smije pretjecati motorna vozila osim motocikla bez prikolice i mopeda u duljini 1,5 km od prometnog znaka",
+        "correct": true
+      },
+      {
+        "text": "smije pretjecati motorna vozila osim motocikla bez prikolice i mopeda u duljini 1,5 km od prometnog znaka",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/30.jpg"
+    ]
+  },
+  {
+    "question": "O čemu ovisi dužina zaustavnog puta ?",
+    "answers": [
+      {
+        "text": "brzina vožnje",
+        "correct": true
+      },
+      {
+        "text": "gustoći prometa",
+        "correct": false
+      },
+      {
+        "text": "stanju kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite cestom u naselju brzinom 50 km/sat u situaciji na slici. O čemu morate voditi računa?",
+    "answers": [
+      {
+        "text": "o pješaku",
+        "correct": true
+      },
+      {
+        "text": "o potrebnom razmaku",
+        "correct": true
+      },
+      {
+        "text": "broju putnika u vozilu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_44.jpg"
+    ]
+  },
+  {
+    "question": "Prema kojim se sudionicima u prometu vozač treba odnositi s povećanim oprezom?",
+    "answers": [
+      {
+        "text": "prema biciklistima",
+        "correct": true
+      },
+      {
+        "text": "prema vozačima koji poštuju pravila",
+        "correct": false
+      },
+      {
+        "text": "prema vozačima mopeda",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je kolnička traka?",
+    "answers": [
+      {
+        "text": "uzdužni dio kolnika namijenjen za promet vozila u jednom smjeru, s jednom prometnom trakom ili više prometnih traka",
+        "correct": true
+      },
+      {
+        "text": "obilježeni ili neobilježeni dio kolnika čija je širina dovoljna za nesmetan promet jednog reda vozila u jednom smjeru",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Pod kojim uvjetima na cesti, u situaciji kao na slici, vozač vozila može voziti trakom koja se ne nalazi uz desni rub kolnika?",
+    "answers": [
+      {
+        "text": "ako time ne ometa ostala vozila koja se kreću iza njegova vozila",
+        "correct": true
+      },
+      {
+        "text": "ako ne može razviti brzinu kretanja veću od 40 km na sat",
+        "correct": false
+      },
+      {
+        "text": "ako na raskrižju namjerava skrenuti ulijevo",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/30.jpg"
+    ]
+  },
+  {
+    "question": "Kojom prometnom trakom vozač obavlja skretanje ulijevo iz ceste s jednosmjernim prometom u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "isključivo trakom koja se prostire uz lijevi rub kolnika",
+        "correct": true
+      },
+      {
+        "text": "isključivo trakom koja se prostire uz desni rub kolnika",
+        "correct": false
+      },
+      {
+        "text": "isključivo trakom koja je namijenjena samo za vožnju ravno",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/20.jpg"
+    ]
+  },
+  {
+    "question": "Koliki razmak ste, u pravilu, dužni držati kada vozite iza drugog vozila, ako je kolnik sklizak?",
+    "answers": [
+      {
+        "text": "dvostruko veći od razmaka na suhom kolniku",
+        "correct": true
+      },
+      {
+        "text": "trostruko veći od razmaka na suhom kolniku",
+        "correct": false
+      },
+      {
+        "text": "isti razmak kao kad je kolnik suh",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/27.jpg"
+    ]
+  },
+  {
+    "question": "Smijete li pretjecati u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "ne, jer nailaze vozila iz suprotnog smjera",
+        "correct": true
+      },
+      {
+        "text": "da, jer je dobra vidljivost",
+        "correct": false
+      },
+      {
+        "text": "da, jer je isprekidana crta na kolniku",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/1.jpg"
+    ]
+  },
+  {
+    "question": "Koje opasnosti mogu nastati tijekom vožnje po magli?",
+    "answers": [
+      {
+        "text": "smanjena vidljivost",
+        "correct": true
+      },
+      {
+        "text": "pogrešna procjena razmaka",
+        "correct": true
+      },
+      {
+        "text": "slabo uočavanje vozila ispred",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti, u situaciji kao na slici, pri mijenjanju prometne trake?",
+    "answers": [
+      {
+        "text": "naglo kočiti",
+        "correct": false
+      },
+      {
+        "text": "voziti po tragovima drugih vozila",
+        "correct": true
+      },
+      {
+        "text": "prilagoditi brzinu stanju kolnika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12.1/29.jpg"
+    ]
+  },
+  {
+    "question": "Koju boju na vozilu daje uključeno stražnje svjetlo za maglu?",
+    "answers": [
+      {
+        "text": "bijelu",
+        "correct": false
+      },
+      {
+        "text": "žutu",
+        "correct": false
+      },
+      {
+        "text": "crvenu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koju zadaću ima diferencijal na vozilu?",
+    "answers": [
+      {
+        "text": "Omogućiti da se pogonski kotači u zavoju okreću različitim brzinama",
+        "correct": true
+      },
+      {
+        "text": "osigurati lagan polazak sa mjesta",
+        "correct": false
+      },
+      {
+        "text": "pretvoriti snagu motora u brzinu okretanja pogonskih kotača",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Po čemu ćete prepoznati da je na cesti zaustavljena kolona vozila?",
+    "answers": [
+      {
+        "text": "po postavljenom jednom sigurnosnom trokutu",
+        "correct": false
+      },
+      {
+        "text": "po postavljenim dvama sigurnosnim trokutima jedan pokraj drugoga",
+        "correct": true
+      },
+      {
+        "text": "po postavljenim dvama sigurnosnim trokutima jedan ispred drugog",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite u situaciji kao na slici. Prema čemu ste dužni prilagoditi brzinu kretanja vozila?",
+    "answers": [
+      {
+        "text": "prema vidljivosti i preglednosti",
+        "correct": true
+      },
+      {
+        "text": "prema gustoći prometa",
+        "correct": true
+      },
+      {
+        "text": "prema maksimalnoj snazi motora vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/42.jpg"
+    ]
+  },
+  {
+    "question": "Koja vozila ste dužni propustiti na raskrižju cesta iste važnosti bez obzira na smjer iz kojeg dolaze, osim ako postavljenim prometnim znakom nije drukčije određeno?",
+    "answers": [
+      {
+        "text": "teretne automobile",
+        "correct": false
+      },
+      {
+        "text": "motocikle i mopede",
+        "correct": false
+      },
+      {
+        "text": "vozila koja se kreću po tračnicama",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Približavate se ovom raskrižju. Na semaforu je upaljeno žuto treptavo svjetlo. Jeste li dužni propustiti autobus ili imate prednost prolaska?",
+    "answers": [
+      {
+        "text": "imam prednost pred autobusom jer zadržavam smjer kretanja, a autobus skreće u lijevo",
+        "correct": false
+      },
+      {
+        "text": "dužan sam propustiti autobus jer skreće u lijevo",
+        "correct": false
+      },
+      {
+        "text": "dužan sam propustiti autobus jer se nalazi na cesti s prednošću prolaska",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/43.jpg"
+    ]
+  },
+  {
+    "question": "Koje će se vozilo kretati unatrag kad se jedno od vozila koja se mimoilaze na velikom uzdužnom nagibu mora kretati unatrag?",
+    "answers": [
+      {
+        "text": "svako vozilo koje se susrelo s vozilom koje vuče priključno vozilo",
+        "correct": true
+      },
+      {
+        "text": "vozilo koje se susrelo s vozilom niže kategorije",
+        "correct": false
+      },
+      {
+        "text": "vozilo koje se susrelo s vozilom više kategorije",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što se smatra prekidom kretanja vozila na cesti u trajanju duljem od tri minute osim prekida koji se čini da bi se postupilo po prometnom znaku ili pravilu?",
+    "answers": [
+      {
+        "text": "parkiranje vozila",
+        "correct": true
+      },
+      {
+        "text": "zaustavljanje vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozilo na cesti ispred vašeg vozila, u situaciji kao na slici, zaustavilo se. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "obići vozilo ispred s lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "stati iza vozila i sačekati da napusti raskrižje",
+        "correct": true
+      },
+      {
+        "text": "zvučnim znakom ga upozoriti da nastavi vožnju",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/16.jpg"
+    ]
+  },
+  {
+    "question": "Što se na cesti označuje pločom kao na slici?",
+    "answers": [
+      {
+        "text": "zapreka na cesti",
+        "correct": false
+      },
+      {
+        "text": "bočne smetnje na cesti",
+        "correct": false
+      },
+      {
+        "text": "zavoj na cesti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.4/9.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti u situaciji kao na slici prije nailaska vlaka?",
+    "answers": [
+      {
+        "text": "nastaviti vožnju između polubranika",
+        "correct": false
+      },
+      {
+        "text": "zaustaviti vozilo i čekati da se polubranici dignu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/46.jpg"
+    ]
+  },
+  {
+    "question": "Kako treba postupiti vozač nakon nailaska na situaciju kao na slici?",
+    "answers": [
+      {
+        "text": "voziti brzinom većom od 60 km u satu",
+        "correct": false
+      },
+      {
+        "text": "voziti brzinom do 60 km u satu",
+        "correct": true
+      },
+      {
+        "text": "ne smije pretjecati motorna vozila osim motocikla bez prikolice i mopeda",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.1/5.jpg"
+    ]
+  },
+  {
+    "question": "Na koju opasnost upozorava prometni znak na slici?",
+    "answers": [
+      {
+        "text": "na jak bočni vjetar na udaljenosti 600 metara od prometnog znaka",
+        "correct": true
+      },
+      {
+        "text": "na jak bočni vjetar u duljini 600 metara od prometnog znaka",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/25.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti nakon ovoga prometnog znaka?",
+    "answers": [
+      {
+        "text": "pripremiti se na kočenje i zaustavljanje",
+        "correct": true
+      },
+      {
+        "text": "očekivati prelazak djece preko kolnika",
+        "correct": true
+      },
+      {
+        "text": "vožnju nastaviti povećanom brzinom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/15.jpg"
+    ]
+  },
+  {
+    "question": "Kako najčešće reagira umoran vozač tijekom vožnje?",
+    "answers": [
+      {
+        "text": "dovoljno brzo, ali netočno",
+        "correct": true
+      },
+      {
+        "text": "presporo, ali točno",
+        "correct": false
+      },
+      {
+        "text": "netočno i presporo",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite cestom u situaciji kao na slici. Koja opasnost je moguća?",
+    "answers": [
+      {
+        "text": "smanjena vidljivost",
+        "correct": false
+      },
+      {
+        "text": "iznenadan nailazak pješaka na kolnik",
+        "correct": true
+      },
+      {
+        "text": "vožnja u usporednim kolonama",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/2/Ponasanje%20sudionika%20u%20prometu_26%2C%2027%2C%2028.JPG"
+    ]
+  },
+  {
+    "question": "Kojom se najvećom dopuštenom brzinom smije voziti cestom izvan naselja, u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "70 km na sat",
+        "correct": false
+      },
+      {
+        "text": "80 km na sat",
+        "correct": true
+      },
+      {
+        "text": "90 km na sat",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/16.jpg"
+    ]
+  },
+  {
+    "question": "Kako treba postupiti vozač vozila nakon pretjecanja kako bi ponovno zauzeo položaj vozilom u desnoj prometnoj traci?",
+    "answers": [
+      {
+        "text": "bez ometanja ili ugrožavanja vozila kojeg se pretječe",
+        "correct": true
+      },
+      {
+        "text": "u blagom luku se vratiti u desnu prometnu traku",
+        "correct": true
+      },
+      {
+        "text": "u oštrom luku se vratiti u desnu prometnu traku",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koje su posljedice većeg tlaka u gumama od propisanog?",
+    "answers": [
+      {
+        "text": "produljenje puta kočenja",
+        "correct": true
+      },
+      {
+        "text": "bolje prianjanje za kolnik",
+        "correct": false
+      },
+      {
+        "text": "povećano neravnomjerno trošenje guma",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Je li vozač dužan nakon pretjecanja drugog vozila dati znak pokazivačem smjera da se namjerava vratiti na prometnu traku kojom se kretao prije pretjecanja?",
+    "answers": [
+      {
+        "text": "jest dužan",
+        "correct": false
+      },
+      {
+        "text": "nije dužan",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što se označuje svjetlosnim znakom na slici?",
+    "answers": [
+      {
+        "text": "mjesto na kojemu se obavljaju radovi",
+        "correct": false
+      },
+      {
+        "text": "prijelaz ceste preko željezničke pruge",
+        "correct": true
+      },
+      {
+        "text": "raskrižje na kojemu se prometom upravlja prometnim svjetlima",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/18.jpg"
+    ]
+  },
+  {
+    "question": "Što se razumijeva pod oštrinom vida?",
+    "answers": [
+      {
+        "text": "razlikovanje boja",
+        "correct": false
+      },
+      {
+        "text": "uočavanje malih razlika u obliku i veličini predmeta",
+        "correct": true
+      },
+      {
+        "text": "prostor koji se vidi bez pomicanja očiju",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koji prometni znak označuje obavezno obiljaženje?       A               B                 C",
+    "answers": [
+      {
+        "text": "A",
+        "correct": true
+      },
+      {
+        "text": "B",
+        "correct": true
+      },
+      {
+        "text": "C",
+        "correct": false
+      },
+      {
+        "text": "",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/B7_18.JPG"
+    ]
+  },
+  {
+    "question": "Na što morate paziti kad naiđete na ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "na moguća vozila u zavoju",
+        "correct": true
+      },
+      {
+        "text": "na prilagodbu brzine vožnje",
+        "correct": true
+      },
+      {
+        "text": "na suženje ceste s lijeve strane",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/13.jpg"
+    ]
+  },
+  {
+    "question": "Kolika je prosječna dužina vremena reagiranja vozača u normalnim uvjetima vožnje ?",
+    "answers": [
+      {
+        "text": "dvije sekunde",
+        "correct": false
+      },
+      {
+        "text": "jedna sekunda",
+        "correct": true
+      },
+      {
+        "text": "tri sekunde",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite autocestom u situaciji kao na slici. Koja opasnost vam prijeti?",
+    "answers": [
+      {
+        "text": "smanjena vidljivost zbog magle",
+        "correct": true
+      },
+      {
+        "text": "sklizak kolnik",
+        "correct": true
+      },
+      {
+        "text": "vožnja na premalom razmaku",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/2/Ponasanje%20sudionika%20u%20prometu_23.JPG"
+    ]
+  },
+  {
+    "question": "Što je prometna traka za ubrzavanje?",
+    "answers": [
+      {
+        "text": "dio kolnika namijenjen za uključivanje vozila u prometni tok sa sporedne ceste",
+        "correct": true
+      },
+      {
+        "text": "dio kolnika namijenjen isključivo za pretjecanje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koje uvjete za upravljanje vozilom u prometu na cesti mora imati vozač?",
+    "answers": [
+      {
+        "text": "tjelesnu i duševnu sposobnost",
+        "correct": true
+      },
+      {
+        "text": "potrebno znanje i vještine",
+        "correct": true
+      },
+      {
+        "text": "osobni automobil u vlasništvu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na kojim dijelovima ceste zimi često dolazi do sklizanja ili zanošenja vozila?",
+    "answers": [
+      {
+        "text": "na mostovima ili vijaduktima",
+        "correct": true
+      },
+      {
+        "text": "na ravnim dionicama ceste",
+        "correct": false
+      },
+      {
+        "text": "na uzbrdicama ili zavojima",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smije li vozač vozilom pretjecati u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "ne smije jer postoji zabrana pretjecanja",
+        "correct": false
+      },
+      {
+        "text": "ne smije jer je ograničenje brzine 80 km na sat",
+        "correct": false
+      },
+      {
+        "text": "smije jer je naznačen prestanak zabrane pretjecanja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/9.jpg"
+    ]
+  },
+  {
+    "question": "Koliko najmanje metara ceste mora osvijetliti svjetlosni snop dugog svjetla ispred vozila noću?",
+    "answers": [],
+    "imagesUrls": []
+  },
+  {
+    "question": "U kojem stupnju prijenosa je snaga na pogonskim kotačima najveća?",
+    "answers": [
+      {
+        "text": "petom",
+        "correct": false
+      },
+      {
+        "text": "prvom",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti, u situaciji kao na slici, prema autobusu koji se uključuje sa stajališta u promet?",
+    "answers": [
+      {
+        "text": "omogućiti uključivanje autobusa u promet",
+        "correct": true
+      },
+      {
+        "text": "upotrijebiti zvučni znak upozorenja i povećati brzinu",
+        "correct": false
+      },
+      {
+        "text": "obići autobus i voziti prometnom trakom za suprotan smjer",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/15.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti kada svojim vozilom ulazite na cestu koja je prometnim znakom označena kao cesta s prednošću prolaska?",
+    "answers": [
+      {
+        "text": "propustiti isključivo vozila koja nailaze s lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "propustiti isključivo vozila koja se kreću velikom brzinom",
+        "correct": false
+      },
+      {
+        "text": "propustiti sva vozila koja se kreću tom cestom",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "S koje strane se može obilaziti pješački otok koji se nalazi na sredini ceste s jednosmjernim prometom ako prometnim znakom nije drukčije određeno?",
+    "answers": [
+      {
+        "text": "samo s lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "s lijeve ili s desne strane",
+        "correct": true
+      },
+      {
+        "text": "samo s desne strane",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja se vozila smatraju vozilima pod pratnjom?",
+    "answers": [
+      {
+        "text": "vozila hitne pomoći",
+        "correct": false
+      },
+      {
+        "text": "vozila koja prate pripadnici policije",
+        "correct": true
+      },
+      {
+        "text": "vozila vatrogasne službe",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zašto su vozači bicikla opasni u prometu?",
+    "answers": [
+      {
+        "text": "lako mogu izgubiti ravnotežu ili stabilnost",
+        "correct": true
+      },
+      {
+        "text": "često voze sporo",
+        "correct": false
+      },
+      {
+        "text": "mnogi bez pokazivanja namjera mijenjaju smjer vožnje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako vozač tijekom vožnje treba postupiti u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "očekivati opasnost na cesti",
+        "correct": true
+      },
+      {
+        "text": "voziti brzinom 90 km na sat",
+        "correct": false
+      },
+      {
+        "text": "prilagoditi brzinu vožnje prometnom znaku",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/28.jpg"
+    ]
+  },
+  {
+    "question": "Što znači položaj tijela i znak koji daje policijski službenik u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "zabranu prolaska za vozila čiji smjer kretanja siječe smjer ispružene ruke",
+        "correct": false
+      },
+      {
+        "text": "smanjenje brzine za vozilo prema kojemu se daje znak rukom",
+        "correct": true
+      },
+      {
+        "text": "povećanje brzine za vozilo prema kojem se daje znak rukom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/9.jpg"
+    ]
+  },
+  {
+    "question": "Vozite noću. Razmak između smjerokaznih stupića na kolniku se smanjuje. Što to znači?",
+    "answers": [
+      {
+        "text": "približavanje zavoju",
+        "correct": true
+      },
+      {
+        "text": "približavanje ulasku u tunel",
+        "correct": false
+      },
+      {
+        "text": "približavanje mostu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na koju opasnost ukazuje prometni znak s dopunskom pločom na slici?",
+    "answers": [
+      {
+        "text": "na tunel duljine 500 metara",
+        "correct": false
+      },
+      {
+        "text": "da se tunel nalazi na udaljenosti 500 metara od znaka (pogrešan broj u tekstu pitanja)",
+        "correct": true
+      },
+      {
+        "text": "na vijadukt koji se nalazi na udaljenosti 500 metara od znaka",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/26.jpg"
+    ]
+  },
+  {
+    "question": "U koju kategoriju vozila pripada crveno vozilo na slici?",
+    "answers": [
+      {
+        "text": "u B+E kategoriju vozila",
+        "correct": false
+      },
+      {
+        "text": "u B kategoriju vozila",
+        "correct": true
+      },
+      {
+        "text": "u F kategoriju vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/Propisi%20u%20cestovnom%20prometu_30.jpg"
+    ]
+  },
+  {
+    "question": "Što se smatra kolonom vozila u naseljenom mjestu?",
+    "answers": [
+      {
+        "text": "skupina od najmanje triju automobila koji voze u nizu jedan iza drugoga",
+        "correct": true
+      },
+      {
+        "text": "skupina od najmanje triju bicikala koji voze u nizu jedan iza drugoga",
+        "correct": false
+      },
+      {
+        "text": "skupina od najmanje triju automobila zaustavljenih na kolniku",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koje su opasnosti moguće pri vožnji u koloni?",
+    "answers": [
+      {
+        "text": "nalijetanje na vozilo ispred",
+        "correct": true
+      },
+      {
+        "text": "vožnja na potrebnom razmaku",
+        "correct": false
+      },
+      {
+        "text": "vožnja prilagođenom brzinom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/40.jpg"
+    ]
+  },
+  {
+    "question": "Koje su opasnosti moguće pri pretjecanju vozila, u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "pogrešna procjena duljine preglednosti za pretjecanje",
+        "correct": true
+      },
+      {
+        "text": "pogrešna procjena prostora za povratak nakon pretjecanja",
+        "correct": true
+      },
+      {
+        "text": "pridržavanje dovoljnog bočnog razmaka",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/5.jpg"
+    ]
+  },
+  {
+    "question": "Mora li vozač koji naiđe na mjesto prometne nesreće prevesti ozlijeđenu osobu na zahtjev ovlaštene osobe do najbliže zdravstvene ustanove?",
+    "answers": [
+      {
+        "text": "mora",
+        "correct": true
+      },
+      {
+        "text": "ne mora ako osoba krvari",
+        "correct": false
+      },
+      {
+        "text": "ne mora ako je osoba pod utjecajem alkohola",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko metara ceste mora osvijetliti svjetlosni snop kratkog svjetla ispred vozila noću?",
+    "answers": [
+      {
+        "text": "najmanje 40, a najviše 80 metara",
+        "correct": true
+      },
+      {
+        "text": "najmanje 100 metara",
+        "correct": false
+      },
+      {
+        "text": "najviše 35 metara",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što označuje oznaka R15 na gumi?",
+    "answers": [
+      {
+        "text": "brzina do 170 km/h i nosivost gume",
+        "correct": false
+      },
+      {
+        "text": "radijalna guma i promjer naplatka",
+        "correct": true
+      },
+      {
+        "text": "vanjski promjer i visina gume",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako morate voziti kolnikom na kojem prometne trake nisu obilježene u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "sredinom kolnika",
+        "correct": false
+      },
+      {
+        "text": "desnom stranom u smjeru vožnje",
+        "correct": true
+      },
+      {
+        "text": "što bliže lijevom rubu kolnika u smjeru vožnje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/23.jpg"
+    ]
+  },
+  {
+    "question": "Kojom se stranom kolnika mora kretati vozač ako se svojim vozilom vozi unatrag?",
+    "answers": [
+      {
+        "text": "onom stranom na kojoj je manji intenzitet prometa",
+        "correct": false
+      },
+      {
+        "text": "onom stranom kojom se do tada kretao vožnjom unaprijed",
+        "correct": true
+      },
+      {
+        "text": "onom stranom koja se proteže uz lijevi rub kolnika",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na kojem dijelu kolnika vozač koji se isključuje iz prometa na autocesti mora početi usporavati svoje vozilo?",
+    "answers": [
+      {
+        "text": "na desnoj prometnoj traci",
+        "correct": false
+      },
+      {
+        "text": "na traci za usporavanje vozila",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozeći cestom naiđete na dio ceste koji je obilježen ovim prometnim znakom. Gdje morate računati s pojavom djece?",
+    "answers": [
+      {
+        "text": "ispred škole",
+        "correct": true
+      },
+      {
+        "text": "ispred bolnice",
+        "correct": false
+      },
+      {
+        "text": "ispred dječjeg vrtića",
+        "correct": true
+      },
+      {
+        "text": "ispred dječjeg igrališta",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/21.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti približavajući se vozilom policijskom službeniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "obvezno zaustaviti vozilo",
+        "correct": true
+      },
+      {
+        "text": "ubrzati i što prije proći",
+        "correct": false
+      },
+      {
+        "text": "pratiti znak policijskog službenika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/2.jpg"
+    ]
+  },
+  {
+    "question": "Što znači jedan zvižduk zviždaljkom koji daje policijski službenik?",
+    "answers": [
+      {
+        "text": "poziv sudionicima u prometu da obrate pozornost na policijskog službenika koji će izraziti određeni zahtjev",
+        "correct": true
+      },
+      {
+        "text": "upozorenje da je određeni sudionik u prometu postupio protivno zahtjevu policijskog službenika",
+        "correct": false
+      },
+      {
+        "text": "upozorenje određenom sudioniku u prometu na povećanje brzine kretanja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što označuje strelica na sredini kolnika u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "najavu početka pretjecanja",
+        "correct": false
+      },
+      {
+        "text": "najavu završetka pretjecanja",
+        "correct": true
+      },
+      {
+        "text": "jedan smjer vožnje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/23.jpg"
+    ]
+  },
+  {
+    "question": "Koji je raspored prometnih svjetala na semaforu gledajući odozgo prema dolje?",
+    "answers": [
+      {
+        "text": "žuto, crveno, zeleno",
+        "correct": false
+      },
+      {
+        "text": "crveno, zeleno, žuto",
+        "correct": false
+      },
+      {
+        "text": "crveno, žuto, zeleno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako se može skratiti zaustavni put vozila?",
+    "answers": [
+      {
+        "text": "vožnjom u umornom stanju",
+        "correct": false
+      },
+      {
+        "text": "vožnjom smanjenom brzinom",
+        "correct": true
+      },
+      {
+        "text": "ispravnim načinom kočenja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je put kočenja?",
+    "answers": [
+      {
+        "text": "put koji prijeđe vozilo od trenutka kada vozač pritisne na papučicu kočnice pa do potpunog zaustavljanja vozila",
+        "correct": true
+      },
+      {
+        "text": "put koji vozilo prijeđe od trenutka kada je vozač uočio opasnost na cesti pa do potpunog zaustavljanja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja je cesta označena ovim prometnim znakom?",
+    "answers": [
+      {
+        "text": "brza cesta",
+        "correct": false
+      },
+      {
+        "text": "autocesta",
+        "correct": true
+      },
+      {
+        "text": "cesta namijenjena isključivo za promet motornih vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3/Cesta%20i%20njena%20obiljezja_3.jpg"
+    ]
+  },
+  {
+    "question": "Kako djeca najčešće reagiraju u prometu ?",
+    "answers": [
+      {
+        "text": "u skladu s propisima",
+        "correct": false
+      },
+      {
+        "text": "spontano i nepredvidivo",
+        "correct": true
+      },
+      {
+        "text": "razborito i staloženo",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je prometna traka za usporavanje?",
+    "answers": [
+      {
+        "text": "dio kolnika namijenjen za isključivanje vozila iz prometnog toka na cesti",
+        "correct": true
+      },
+      {
+        "text": "dio kolnika namijenjen isključivo za prometni tok sporih vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojom se brzinom smije voziti kroz naselje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "najviše brzinom 50 km na sat",
+        "correct": false
+      },
+      {
+        "text": "najviše brzinom 70 km na sat",
+        "correct": true
+      },
+      {
+        "text": "brzinom 50 km na sat do prvog raskrižja, a nakon toga najviše 70 km na sat",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/9.jpg"
+    ]
+  },
+  {
+    "question": "Kako se trebate ponašati pri vožnji u koloni u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "održavati potreban razmak",
+        "correct": true
+      },
+      {
+        "text": "promatrati stop-svjetla na vozilima",
+        "correct": true
+      },
+      {
+        "text": "kad je to moguće, obavljati pretjecanje kolone",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/42.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti kada namjeravate pretjecati u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "procijeniti duljinu i preglednost ceste",
+        "correct": true
+      },
+      {
+        "text": "voziti na što većem razmaku iza vozila koje se namjerava pretjecati",
+        "correct": false
+      },
+      {
+        "text": "procijeniti kojom brzinom vozi vozilo ispred",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/10.jpg"
+    ]
+  },
+  {
+    "question": "U kojim slučajevima se sudionik u prometnoj nesreći u kojoj je netko izgubio život ili je ozlijeđen ili je nastala veća materijalna šteta može privremeno udaljiti?",
+    "answers": [
+      {
+        "text": "radi pružanja pomoći osobama ozlijeđenim u prometnoj nesreći",
+        "correct": true
+      },
+      {
+        "text": "radi obavješćivanja policije o prometnoj nesreći",
+        "correct": true
+      },
+      {
+        "text": "samo radi obavješćivanja vatrogasne službe",
+        "correct": false
+      },
+      {
+        "text": "ako mu je samome potrebna liječnička pomoć",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozite autocestom u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "prema potrebi smanjiti brzinu",
+        "correct": true
+      },
+      {
+        "text": "povećati brzinu",
+        "correct": false
+      },
+      {
+        "text": "čvrsto držati upravljač",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12/21.jpg"
+    ]
+  },
+  {
+    "question": "Koje opasnosti su moguće tijekom vožnje po kiši zbog kolotraga na kolniku?",
+    "answers": [
+      {
+        "text": "pojava vodenoga klina i skijanja na vodi",
+        "correct": true
+      },
+      {
+        "text": "zanošenje vozila i gubljenje upravljivosti",
+        "correct": true
+      },
+      {
+        "text": "dulji put kočenja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koju zadaću ima uređaj za hlađenje motora?",
+    "answers": [
+      {
+        "text": "osiguravati i održavati radnu temperaturu motora",
+        "correct": true
+      },
+      {
+        "text": "smanjiti trošenje između pokretnih dijelova motora",
+        "correct": false
+      },
+      {
+        "text": "osiguravati pranje vjetrobranskog stakla",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja je svrha uključivanja stop-svjetala na motornom vozilu?",
+    "answers": [
+      {
+        "text": "obavijest vozaču koji vozi iza na promjenu smjera kretanja",
+        "correct": false
+      },
+      {
+        "text": "obavijest vozaču koji vozi iza na smanjenje brzine",
+        "correct": true
+      },
+      {
+        "text": "obavijest vozaču koji vozi iza na povećanje brzine",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Ako vam se na instrument ploči za vožnje uključi crvena kontrolna žaruljica kao na slici, što to može značiti ?",
+    "answers": [
+      {
+        "text": "ABS sustav je u funkciji",
+        "correct": false
+      },
+      {
+        "text": "ABS sustav je možda izvan funkcije",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/8.2/11.jpg"
+    ]
+  },
+  {
+    "question": "Namjeravate se vozilom s ceste bez suvremenoga kolničkog zastora uključiti u promet u situaciji kao na slici? Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "uključiti pokazivač smjera",
+        "correct": true
+      },
+      {
+        "text": "uvjeriti se da to možete učiniti sigurno",
+        "correct": true
+      },
+      {
+        "text": "uključiti duga svjetla",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/13.jpg"
+    ]
+  },
+  {
+    "question": "Približavate se vozilom raskrižju u situaciji kao na slici. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "propustiti crveni automobil",
+        "correct": true
+      },
+      {
+        "text": "voziti prije crvenog automobila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/8.jpg"
+    ]
+  },
+  {
+    "question": "Želite pretjecati crno vozilo u situaciji kao na slici. Kako čete postupiti ?",
+    "answers": [
+      {
+        "text": "odustati od pretjecanja",
+        "correct": true
+      },
+      {
+        "text": "pretjecanje obaviti ne prelazeći brzinu veću od 40 km/h",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/B2_36.JPG"
+    ]
+  },
+  {
+    "question": "Vozeći prilazite ovom prometnom znaku. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "voziti s povećanim oprezom",
+        "correct": true
+      },
+      {
+        "text": "povećati brzinu vožnje",
+        "correct": false
+      },
+      {
+        "text": "očekivati pješake koji se kreću cestom",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/6/14.jpg"
+    ]
+  },
+  {
+    "question": "Koje su moguće opasnosti zbog otežanog  uočavanja prometne situacije tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "vožnja s upaljenim kratkim svjetlima",
+        "correct": false
+      },
+      {
+        "text": "nalet na vozilo ispred, ako se nalazi",
+        "correct": true
+      },
+      {
+        "text": "prelazak preko dvostruke pune crte",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/51.jpg"
+    ]
+  },
+  {
+    "question": "Koja vozila smiju koristiti cestu obilježenu ovim prometnim znakom?",
+    "answers": [
+      {
+        "text": "osobni automobil",
+        "correct": true
+      },
+      {
+        "text": "motocikli",
+        "correct": true
+      },
+      {
+        "text": "traktori",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/7.jpg"
+    ]
+  },
+  {
+    "question": "Što je put reagiranja?",
+    "answers": [
+      {
+        "text": "put koji vozilo prijeđe od trenutka kada je vozač uočio opasnost na cesti pa do njegove reakcije na tu opasnost",
+        "correct": true
+      },
+      {
+        "text": "put koji prijeđe vozilo od trenutka kada je vozač uočio opasnost na cesti pa do potpunog zaustavljanja vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "U kojim će uvjetima prianjanje guma na cesti biti bolje?",
+    "answers": [
+      {
+        "text": "u uvjetima kad je kolnik hrapav",
+        "correct": true
+      },
+      {
+        "text": "u uvjetima kad je kolnik suh",
+        "correct": true
+      },
+      {
+        "text": "u uvjetima kad je kolnik mokar",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kolika je dopuštena količina alkohola u organizmu tijekom upravljanja vozilom za vozača vozila A1, A2, A, B, BE kategorije?",
+    "answers": [
+      {
+        "text": "0,0 g/kg",
+        "correct": false
+      },
+      {
+        "text": "0,5 g/kg",
+        "correct": true
+      },
+      {
+        "text": "0,8 g/kg",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Smije li vozač tijekom upravljanja vozilom koristiti mobitel?",
+    "answers": [
+      {
+        "text": "smije ako upotrebljava napravu koja omogućuje njegovo korištenje bez uporabe ruku",
+        "correct": true
+      },
+      {
+        "text": "ne smije na način koji bi umanjio mogućnost reagiranja i sigurnog upravljanja vozilom",
+        "correct": true
+      },
+      {
+        "text": "smije ako i ne upotrebljava napravu koja omogućuje njegovo korištenje bez uporabe ruku kad se radi o službenom mobitelu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koji su zahtjevi vožnje u gradu?",
+    "answers": [
+      {
+        "text": "stalna pozornost i predviđanje opasnosti",
+        "correct": true
+      },
+      {
+        "text": "pravodobno uočavanje i reagiranje",
+        "correct": true
+      },
+      {
+        "text": "vožnja bez uvažavanja i tolerancije",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/5.jpg"
+    ]
+  },
+  {
+    "question": "Koje opasnosti prijete u vožnji na cesti izvan naselja?",
+    "answers": [
+      {
+        "text": "vožnja na premalom razmaku",
+        "correct": true
+      },
+      {
+        "text": "vožnja cestama s više prometnih traka u jednom smjeru",
+        "correct": false
+      },
+      {
+        "text": "vožnja u koloni",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/5.jpg"
+    ]
+  },
+  {
+    "question": "Pretječe vas drugo vozilo na cesti koja nije dovoljno široka. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "pomaknuti svoje vozilo što više udesno",
+        "correct": true
+      },
+      {
+        "text": "ako je potrebno, čim bude moguće, zaustaviti vozilo na prikladnom mjestu",
+        "correct": true
+      },
+      {
+        "text": "ubrzati i maksimalnom brzinom voziti po toj dionici ceste",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti kada naiđete na prometnu nesreću u kojoj ima ozlijeđenih osoba?",
+    "answers": [
+      {
+        "text": "pomoći ćete nastradalima u nesreći",
+        "correct": true
+      },
+      {
+        "text": "poduzeti sve mjere da se otklone nove opasnosti",
+        "correct": true
+      },
+      {
+        "text": "o nesreći ćete obavijestiti policiju",
+        "correct": true
+      },
+      {
+        "text": "brzo ćete napustiti mjesto nesreće",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koji sudionici u prometu se, u pravilu, slabo uočavaju noću?",
+    "answers": [
+      {
+        "text": "pješaci",
+        "correct": true
+      },
+      {
+        "text": "neosvijetljeni biciklisti",
+        "correct": true
+      },
+      {
+        "text": "vozači teretnih automobila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko osoba smijete prevoziti u osobnom automobilu u prometu na cesti?",
+    "answers": [
+      {
+        "text": "onoliko koliko je upisano u prometnoj dozvoli",
+        "correct": true
+      },
+      {
+        "text": "onoliko koliko ima ugrađenih sjedala",
+        "correct": true
+      },
+      {
+        "text": "onoliko kolika je masa vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako mora postupiti vozač prema vozilu javnog prijevoza putnika kada se to vozilo uključuje u promet sa stajališta koje se nalazi izvan kolnika?",
+    "answers": [
+      {
+        "text": "dužan mu je omogućiti uključivanje",
+        "correct": true
+      },
+      {
+        "text": "nije mu dužan omogućiti uključivanje",
+        "correct": false
+      },
+      {
+        "text": "dužan mu je omogućiti uključivanje samo ako organizirano prevozi djecu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je prestrojavanje?",
+    "answers": [
+      {
+        "text": "prelaženje vozilom iz jedne u drugu prometnu traku radi bržega kretanja",
+        "correct": false
+      },
+      {
+        "text": "zauzimanje takvog položaja vozilom na prometnoj traci iz kojeg se može na siguran način izvesti naredna radnja s vozilom",
+        "correct": true
+      },
+      {
+        "text": "prolaženje vozilom pokraj drugog vozila koje se kreće u istom smjeru",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliki najmanji razmak mora biti od obilježenoga pješačkog prijelaza i parkiranog vozila? Upišite u kvadratić.",
+    "answers": [],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što znači položaj tijela i znak koji daje policijski službenik na slici?",
+    "answers": [
+      {
+        "text": "slobodan prolazak za vozila koja nailaze s bočnih strana policijskog službenika",
+        "correct": true
+      },
+      {
+        "text": "obvezno zaustavljanje svih sudionika u prometu",
+        "correct": false
+      },
+      {
+        "text": "zabranu prolazak za vozila koja nailaze s bočnih strana policijskog službenika",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/17.jpg"
+    ]
+  },
+  {
+    "question": "Što označuje puna uzdužna crta na kolniku u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "zabranu prelaska vozila preko uzdužne crte",
+        "correct": true
+      },
+      {
+        "text": "dopušteno kretanje po uzdužnoj crti",
+        "correct": false
+      },
+      {
+        "text": "zabranu kretanja vozila po uzdužnoj crti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.3/11.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete, dok vozite, postupiti u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": " voziti brzinom do 60 km/sat",
+        "correct": true
+      },
+      {
+        "text": " voziti trakom za zaustavljanje vozila u nuždi",
+        "correct": false
+      },
+      {
+        "text": " voziti trakom u skladu s oznakama na kolniku",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_59.jpg"
+    ]
+  },
+  {
+    "question": "O čemu ovisi duljina potrebnog razmaka od vozila ispred u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "o prometnom znaku izričite naredbe",
+        "correct": false
+      },
+      {
+        "text": "o brzini vožnje",
+        "correct": true
+      },
+      {
+        "text": "o pozornosti vozača",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_49.jpg"
+    ]
+  },
+  {
+    "question": "Smije li vozač vozila B kategorije, kojem je upravljanje vozilom osnovno zanimanje, u vrijeme kada obavlja te poslove upravljati vozilom ako u organizmu ima alkohola?",
+    "answers": [
+      {
+        "text": "ne smije",
+        "correct": true
+      },
+      {
+        "text": "smije ako ima 0,3 g/kg alkohola u krvi",
+        "correct": false
+      },
+      {
+        "text": "smije ako ima 0,5 g/kg alkohola u krvi",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što vozač pri uključivanju vozilom u promet na cestu izvan naselja mora dobro procijeniti?",
+    "answers": [
+      {
+        "text": "brzinu i udaljenost vozila koja nailaze tom cestom",
+        "correct": true
+      },
+      {
+        "text": "istrošenost guma vozila koja nailaze tom cestom",
+        "correct": false
+      },
+      {
+        "text": "siguran trenutak uključivanja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10/20.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti tijekom vožnje u situaciji kao na slici ako je vozilo ispred zaustavljeno ?",
+    "answers": [
+      {
+        "text": "na potrebnom razmaku zaustaviti vozilo",
+        "correct": true
+      },
+      {
+        "text": "uključiti sve pokazivače smjera",
+        "correct": true
+      },
+      {
+        "text": "odmah obavijestiti vatrogasnu službu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/11/19.jpg"
+    ]
+  },
+  {
+    "question": "Kada ne smijete za vožnje noću upotrebljavati duga svjetla za osvjetljavanje ceste?",
+    "answers": [
+      {
+        "text": "kada postoji opasnost zasljepljivanja drugog vozača",
+        "correct": true
+      },
+      {
+        "text": "kada vozilom prolazite pokraj kolone pješaka",
+        "correct": true
+      },
+      {
+        "text": "kada vozite cestom izvan naselja",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zašto je u zimskim uvjetima obvezna uporaba zimske opreme?",
+    "answers": [
+      {
+        "text": "manja je mogućnost zanošenja i klizanja vozila",
+        "correct": true
+      },
+      {
+        "text": "smanjuje se potrošnja goriva",
+        "correct": false
+      },
+      {
+        "text": "bolje je prianjanje guma za podlogu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Čemu služe pokazivači smjera na motornom vozilu?",
+    "answers": [
+      {
+        "text": "za obavješćivanje drugih sudionika u prometu o smanjenju brzine",
+        "correct": false
+      },
+      {
+        "text": "za obavješćivanje drugih sudionika u prometu o promjenu smjera kretanja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Do kojeg odredišta se smije vući neispravno vozilo autocestom ako se neispravnost dogodila na autocesti?",
+    "answers": [
+      {
+        "text": "do odredišta do kojeg je plaćena cestarina",
+        "correct": false
+      },
+      {
+        "text": "do bilo kojeg odredišta",
+        "correct": false
+      },
+      {
+        "text": "samo do prvog izlaza sa autoceste",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Vozač vozila ispred ima uključene sve pokazivače smjera. Što to može značiti?",
+    "answers": [
+      {
+        "text": "da je zaustavljen zbog propuštanja pješaka",
+        "correct": false
+      },
+      {
+        "text": "da vozi unatrag",
+        "correct": true
+      },
+      {
+        "text": "da je zaustavljen zbog kvara na vozilu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7/35.jpg"
+    ]
+  },
+  {
+    "question": "Približavate se ovom raskrižju. Na semaforu je upaljeno crveno svjetlo i zelena dopunska strelica u smjeru desno. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "propustiti crveno vozilo i čekati pojavu zelenog svjetla na semafotu",
+        "correct": false
+      },
+      {
+        "text": "nastaviti vožnju u smjeru zelene dopunske strelice uz povećan oprez",
+        "correct": true
+      },
+      {
+        "text": "propustiti crveno vozilo",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.2/42.jpg"
+    ]
+  },
+  {
+    "question": "Na kojim od ovih mjesta vozač ne smije zaustavljati ili parkirati svoje vozilo?",
+    "answers": [
+      {
+        "text": "na kojima bi mogao ugrožavati sigurnost prometa",
+        "correct": true
+      },
+      {
+        "text": "na kojima predstavlja smetnju za kretanje pješaka",
+        "correct": true
+      },
+      {
+        "text": "na kojima postoji organiziran način parkiranja vozila",
+        "correct": false
+      },
+      {
+        "text": "na kojima je to zabranjeno prometnim znakom",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "S kojim se problemom suočava vozač sa slabijom oštrinom vida u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "kasnije uočava prometnu situaciju",
+        "correct": true
+      },
+      {
+        "text": "slabom prilagodbom na svjetlo i tamu",
+        "correct": false
+      },
+      {
+        "text": "smanjenim vremenom za reagiranje na opasne situacije",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/9.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti približavajući se vozilom policijskom službeniku u situaciji kao na slici koji je prsima okrenut prema vama?",
+    "answers": [
+      {
+        "text": "obavezno zaustaviti vozilo",
+        "correct": true
+      },
+      {
+        "text": "ubrzati i što prije proći",
+        "correct": false
+      },
+      {
+        "text": "pratiti znak policijskog službenika",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/5.jpg"
+    ]
+  },
+  {
+    "question": "Vozite lijevom prometnom trakom u situaciji kao na slici. Koja je prometna površina lijevo od prometne trake kojom vozite?",
+    "answers": [
+      {
+        "text": "biciklistička staza",
+        "correct": false
+      },
+      {
+        "text": "biciklistička traka",
+        "correct": true
+      },
+      {
+        "text": "pješačka staza",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/Propisi%20u%20cestovnom%20prometu_25.jpg"
+    ]
+  },
+  {
+    "question": "Vozite u situaciji kao na slici. Što vam je zabranjeno?",
+    "answers": [
+      {
+        "text": "skretati udesno na raskrižju",
+        "correct": true
+      },
+      {
+        "text": "promijeniti prometnu traku",
+        "correct": true
+      },
+      {
+        "text": "proći raskrižjem ravno",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9/24.jpg"
+    ]
+  },
+  {
+    "question": "Kako treba postupiti vozač u vožnji po nizbrdici?",
+    "answers": [
+      {
+        "text": "pravodobno promijeniti u nižu brzinu",
+        "correct": true
+      },
+      {
+        "text": "voziti trakom za spora vozila",
+        "correct": false
+      },
+      {
+        "text": "isključiti rad motora",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/26.jpg"
+    ]
+  },
+  {
+    "question": "Što vozači sudionici prometne nesreće u kojoj je nastala materijalna šteta, u kojoj ima ozlijeđenih ili poginulih osoba ne smiju uzimati neposredno nakon što se dogodila prometna nesreća?",
+    "answers": [
+      {
+        "text": "alkoholna pića i opojne droge",
+        "correct": true
+      },
+      {
+        "text": "lijekova koji se ne smiju upotrebljavati prije ili za vrijeme vožnje",
+        "correct": true
+      },
+      {
+        "text": "vodu i bezalkoholna pića",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako se vozač treba ponašati na skliskom kolniku?",
+    "answers": [
+      {
+        "text": "ne smije naglo okretati upravljač i naglo kočiti",
+        "correct": true
+      },
+      {
+        "text": "ne smije naglo puštati papučicu spojke i naglo dodavati snagu motora",
+        "correct": true
+      },
+      {
+        "text": "ne smije mijenjati u nižu brzinu",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Po čemu se prepoznaje vozilo kojim se organizirano prevoze djeca?",
+    "answers": [
+      {
+        "text": "po postavljenom sigurnosnom trokutu s prednje i stražnje strane vozila",
+        "correct": false
+      },
+      {
+        "text": "po posebnim znakovima postavljenim na prednjoj i stražnjoj strani vozila",
+        "correct": true
+      },
+      {
+        "text": "po pravokutnoj ploči žute boje s crnim rubom na prednjoj i stražnjoj strani vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što je dužan učiniti vozač koji se vozilom uključuje u promet na cesti?",
+    "answers": [
+      {
+        "text": "propustiti sva vozila koja se kreću cestom na koju se uključuje",
+        "correct": true
+      },
+      {
+        "text": "propustiti samo vozila koja mu dolaze ususret",
+        "correct": false
+      },
+      {
+        "text": "propustiti sve pješake koji se kreću cestom na koju se uključuje",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kolika je najveća dopuštena brzina kretanja vozila na brzoj cesti i cesti namijenjenoj isključivo za promet motornih vozila?",
+    "answers": [
+      {
+        "text": "90 km na sat",
+        "correct": false
+      },
+      {
+        "text": "100 km na sat",
+        "correct": false
+      },
+      {
+        "text": "110 km na sat",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što se ne smije činiti vozilom ako se vozi cestom na kojoj postoje najmanje dvije prometne trake za promet u istom smjeru i na kojima su kolone vozila u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "kretati se lijevom prometnom trakom",
+        "correct": false
+      },
+      {
+        "text": "kretati se desnom prometnom trakom",
+        "correct": false
+      },
+      {
+        "text": "prelaziti vozilom iz trake u traku (voziti slalom)",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.3/45.jpg"
+    ]
+  },
+  {
+    "question": "Gdje je vozač dužan, zbog neispravnosti na vozilu, zaustaviti vozilo na kolniku autoceste u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "uz rub desne prometne trake",
+        "correct": false
+      },
+      {
+        "text": "na traci za zaustavljanje vozila u nuždi",
+        "correct": true
+      },
+      {
+        "text": "na traci za usporavanje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/7.4/22.jpg"
+    ]
+  },
+  {
+    "question": "Što treba činiti vozač za pravodobno uočavanje prometnog znaka i postupanje tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "pažnju usmjeriti na prometnu situaciju ispred vozila",
+        "correct": true
+      },
+      {
+        "text": "razumjeti poruku znaka i postupiti prema njoj",
+        "correct": true
+      },
+      {
+        "text": "voziti na minimalnom razmaku iza vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/31.jpg"
+    ]
+  },
+  {
+    "question": "Kojem svjetlu na semaforu odgovara položaj tijela i znak koji daje policijski službenik kao na slici?",
+    "answers": [
+      {
+        "text": "crvenom svjetlu",
+        "correct": false
+      },
+      {
+        "text": "zelenom svjetlu",
+        "correct": false
+      },
+      {
+        "text": "žutom svjetlu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/1.jpg"
+    ]
+  },
+  {
+    "question": "Kako ćete postupiti pri nailasku na ovaj prometni znak?",
+    "answers": [
+      {
+        "text": "voziti brzinom do brzine hoda pješaka",
+        "correct": true
+      },
+      {
+        "text": "voziti brzinom do 50 km na sat",
+        "correct": false
+      },
+      {
+        "text": "očekivati nepredviđene postupke djece ako se igraju na ulici",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/12.jpg"
+    ]
+  },
+  {
+    "question": "Gdje se na cesti postavljaju prometni znakovi izričitih naredaba?",
+    "answers": [
+      {
+        "text": "neposredno na mjestima od kojih počinje obveza pridržavanja naredbe izražene znakom",
+        "correct": true
+      },
+      {
+        "text": "150 do 250 metara prije mjesta od kojeg počinje obveza pridržavanja naredbe izražene znakom",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kojim kategorijama vozila ima pravo upravljati vozač kojemu je izdana vozačka dozvola za upravljanje vozilima B kategorije?",
+    "answers": [
+      {
+        "text": "motornim vozilima koja pripadaju AM, F i G kategoriji",
+        "correct": true
+      },
+      {
+        "text": "motornim vozilima koja pripadaju B+E i H kategoriji",
+        "correct": false
+      },
+      {
+        "text": "samo motornim vozilima koja pripadaju B kategoriji",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na koji broj telefona je vozač dužan, o prometnoj nesreći obavijestiti policiju?",
+    "answers": [
+      {
+        "text": "112",
+        "correct": false
+      },
+      {
+        "text": "193",
+        "correct": false
+      },
+      {
+        "text": "192",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako čete se ponašati u situaciji kao na slici ?",
+    "answers": [
+      {
+        "text": "voziti brzinom od 70 km/h do izlaska iz naselja",
+        "correct": false
+      },
+      {
+        "text": "pogledati na brzinomjer",
+        "correct": true
+      },
+      {
+        "text": "voziti brzinom od 70 km/h do prvog raskrižja",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/B6_28.JPG"
+    ]
+  },
+  {
+    "question": "Zbog čega nastaje vodeni klin (aquaplaning)?",
+    "answers": [
+      {
+        "text": "zbog velike količine vode na kolniku",
+        "correct": true
+      },
+      {
+        "text": "zbog dubine utora guma",
+        "correct": true
+      },
+      {
+        "text": "zbog male brzine vožnje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što označuje oznaka 91T na gumi?",
+    "answers": [
+      {
+        "text": "Širinu i visinu gume",
+        "correct": false
+      },
+      {
+        "text": "Širinu i vanjski promjer gume",
+        "correct": false
+      },
+      {
+        "text": "Nosivost gume i brzinu do 190 km/h",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete postupiti približavajući se vozilom policijskom službeniku u situaciji kao na slici ako znak daje u vašem smjeru?",
+    "answers": [
+      {
+        "text": "obvezno zaustaviti vozilo",
+        "correct": false
+      },
+      {
+        "text": "ubrzati kretanje vozila",
+        "correct": true
+      },
+      {
+        "text": "smanjiti brzinu kretanja vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.5/12.jpg"
+    ]
+  },
+  {
+    "question": "Na koju obavijest ukazuje ovaj prometni znak s dopunskom pločom?",
+    "answers": [
+      {
+        "text": "da se cesta s prednošću prolaska proteže ulijevo",
+        "correct": false
+      },
+      {
+        "text": "na obvezno skretanje udesno",
+        "correct": false
+      },
+      {
+        "text": "da se cesta s prednošću prolaska proteže udesno",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/9.jpg"
+    ]
+  },
+  {
+    "question": "Kojim postupcima vozač može utjecati na produljenje zaustavnog puta vozila?",
+    "answers": [
+      {
+        "text": "ako vozi pod utjecajem alkohola",
+        "correct": true
+      },
+      {
+        "text": "ako vozi smanjenom brzinom",
+        "correct": false
+      },
+      {
+        "text": "ako nije koncentriran na vožnju",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Kako ćete voziti pokraj osoba prema kojima ne možete primijeniti načelo povjerenja?",
+    "answers": [
+      {
+        "text": "ubrzati i što prije se od njih maknuti",
+        "correct": false
+      },
+      {
+        "text": "pokraj njih voziti uz povećani oprez",
+        "correct": true
+      },
+      {
+        "text": "procjenjivati njihove namjere",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zbog čega vozač ne smije tijekom upravljanja vozilom koristiti mobitel na način koji bi umanjio mogućnost reagiranja i sigurnog upravljanja vozilom?",
+    "answers": [
+      {
+        "text": "zbog toga što korištenje mobitela smanjuje njegovu pozornost i koncentraciju",
+        "correct": true
+      },
+      {
+        "text": "zbog toga što korištenje mobitela smanjuje vrijeme reagiranja vozača",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliki razmak od vozila ispred za vožnje u kolonama u gradu morate održavati?",
+    "answers": [
+      {
+        "text": "sigurnosni razmak od jednoga metra",
+        "correct": false
+      },
+      {
+        "text": "potreban razmak",
+        "correct": true
+      },
+      {
+        "text": "razmak koji odgovara duljini vozila",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/9.1/13.jpg"
+    ]
+  },
+  {
+    "question": "Što vozač mora procijeniti pri planiranju pretjecanja u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "ugrožava li vozila iz suprotnog smjera",
+        "correct": true
+      },
+      {
+        "text": "je li pretjecanje dopušteno",
+        "correct": true
+      },
+      {
+        "text": "zaustavni put vozila koje pretječe",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/10.1/11.jpg"
+    ]
+  },
+  {
+    "question": "Pretječete noću vozilo koje vozi s upaljenim kratkim svjetlima za osvjetljenje ceste. Kako ćete postupiti?",
+    "answers": [
+      {
+        "text": "pretjecanje se započinje s upaljenim dugim svjetlima",
+        "correct": false
+      },
+      {
+        "text": "kad se dođe usporedno s vozilom, uključuju se duga svjetla",
+        "correct": true
+      },
+      {
+        "text": "voziti iza njega s upaljenim kratkim svjetlima",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Na koje opasnosti treba računati tijekom vožnje u situaciji kao na slici na autocesti?",
+    "answers": [
+      {
+        "text": "na smanjenu vidljivost",
+        "correct": true
+      },
+      {
+        "text": "na dolazak vozila iz suprotnog smjera",
+        "correct": false
+      },
+      {
+        "text": "na sklizak kolnik",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/12.1/43.jpg"
+    ]
+  },
+  {
+    "question": "Vozite cestom izvan naselja. Što ste dužni učiniti u slučaju neispravnosti na vozilu?",
+    "answers": [
+      {
+        "text": "pomaknuti vozilo što bliže desnom rubu kolnika",
+        "correct": true
+      },
+      {
+        "text": "postaviti sigurnosni trokut za vozila na razmaku od najmanje 100 m",
+        "correct": true
+      },
+      {
+        "text": "uključiti  sve pokazivače smjera",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja svjetla moraju biti upaljena na motornom vozilu za vrijeme vožnje danju u zimskom razdoblju računanja vremena?",
+    "answers": [
+      {
+        "text": "duga svjetla",
+        "correct": false
+      },
+      {
+        "text": "samo pozicijska svjetla",
+        "correct": false
+      },
+      {
+        "text": "dnevna ili kratka svjetla",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Prema čemu je vozač dužan prilagoditi brzinu kretanja vozila?",
+    "answers": [
+      {
+        "text": "prema maksimalnoj snazi motora vozila",
+        "correct": false
+      },
+      {
+        "text": "prema osobinama i stanju ceste",
+        "correct": true
+      },
+      {
+        "text": "prema vidljivosti i preglednosti",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Zašto se vozač mora približavati raskrižju s povećanim oprezom?",
+    "answers": [
+      {
+        "text": "kako bi što brže prošao kroz raskrižje",
+        "correct": false
+      },
+      {
+        "text": "kako bi uočio prometne znakove",
+        "correct": true
+      },
+      {
+        "text": "kako bi sigurno prošao raskrižjem",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "S koje se strane mora obilaziti pješački otok koji se nalazi na sredini kolnika ceste s dvosmjernim prometom?",
+    "answers": [
+      {
+        "text": "s lijeve strane",
+        "correct": false
+      },
+      {
+        "text": "s desne strane",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koja se vozila smatraju vozilima s pravom prednosti prolaska?",
+    "answers": [
+      {
+        "text": "vozila koja daju posebne zvučne i svjetlosne znakove plave boje",
+        "correct": true
+      },
+      {
+        "text": "vozila koja daju posebne zvučne i svjetlosne znakove žute boje",
+        "correct": false
+      },
+      {
+        "text": "vozila koja daju posebne zvučne i svjetlosne znakove plave i crvene boje",
+        "correct": false
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Što bi vozač mogao očekivati  tijekom vožnje u situaciji kao na slici?",
+    "answers": [
+      {
+        "text": "vozilo iz suprotnog smjera koje pretječe",
+        "correct": true
+      },
+      {
+        "text": "da je prometna situacija sigurna",
+        "correct": false
+      },
+      {
+        "text": "da vozilo ispred može naglo smanjiti brzinu",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/5/37.jpg"
+    ]
+  },
+  {
+    "question": "O čemu vozača obavješćuje prometni znak na slici?",
+    "answers": [
+      {
+        "text": "da vozi autocestom",
+        "correct": false
+      },
+      {
+        "text": "o mjestu skretanja prema autocesti",
+        "correct": true
+      },
+      {
+        "text": "o smjeru do određenog mjesta",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4.2/23.jpg"
+    ]
+  },
+  {
+    "question": "Koji prometni znak označuje mjesto na kojem cesta prelazi preko željezničke pruge u razini bez branika ili polubranika?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/4/21.jpg"
+    ]
+  },
+  {
+    "question": "Vozite cestom uz čiji rub je postavljena ploča s treptačima kao na slici. Što ona znači?",
+    "answers": [
+      {
+        "text": "da se na cesti izvode radovi",
+        "correct": true
+      },
+      {
+        "text": "da se mjesto radova na cesti obilazi s lijeve strane",
+        "correct": true
+      },
+      {
+        "text": "da se mjesto radova na cesti obilazi s desne strane",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/3.1/Cesta%20i%20njena%20obiljezja_61.jpg"
+    ]
+  },
+  {
+    "question": "Kako treba postupiti vozač pod utjecajem alkohola?",
+    "answers": [
+      {
+        "text": "ne smije upravljati niti početi upravljati vozilom",
+        "correct": true
+      },
+      {
+        "text": "smije upravljati vozilom, ali samo u prisutnosti starijeg vozača",
+        "correct": false
+      },
+      {
+        "text": "treba koristiti javni prijevoz",
+        "correct": true
+      }
+    ],
+    "imagesUrls": []
+  },
+  {
+    "question": "Koliko prometnih traka ima cesta na slici?",
+    "answers": [
+      {
+        "text": "dvije",
+        "correct": true
+      },
+      {
+        "text": "jednu",
+        "correct": false
+      },
+      {
+        "text": "tri",
+        "correct": false
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/Propisi%20u%20cestovnom%20prometu_17_18.jpg"
+    ]
+  },
+  {
+    "question": "Koju prometnu površinu prikazuje situacija na slici?",
+    "answers": [
+      {
+        "text": "pješačku stazu",
+        "correct": false
+      },
+      {
+        "text": "pješački otok",
+        "correct": false
+      },
+      {
+        "text": "obilježeni pješački prijelaz",
+        "correct": true
+      }
+    ],
+    "imagesUrls": [
+      "klindic.autoskola-testovi.com//ckeditor/kcfinder/upload_img/images/1/Propisi%20u%20cestovnom%20prometu_26.jpg"
+    ]
+  }
+]
