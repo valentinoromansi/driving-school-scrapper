@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
+    "target": "es2022",
+    "module": "es2022",
     "moduleResolution": "node",
     "rootDir": "src",
     "outDir": "build",
@@ -12,7 +12,7 @@
     "checkJs": false,
     "resolveJsonModule": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
