@@ -9,7 +9,7 @@ const sleep = () => new Promise(resolve => setTimeout(resolve, 1000))
 let $: cheerio.CheerioAPI
 const headers = {
   headers: { 
-    cookie: 'PHPSESSID=l3rquoo4vli22pr99d1pfe54l3; cookie=here' 
+    cookie: 'PHPSESSID=eg71ooe534n1o3vlgr7o874855; cookie=here' 
   } 
 }
 
@@ -42,10 +42,12 @@ type Answer = {
   text: string,
   correct: boolean
 }
+type QuestionType = 'SELECTED' | 'TYPED' 
 type ExamQuestion = {
   question: string,
   answers: Answer[],
-  imagesUrls: string[]
+  imagesUrls: string[],
+  type: QuestionType
 }
 
 // This is only for now to test with 2 exams
@@ -65,30 +67,46 @@ for (const examUrl of examUrls){
       // question
       const question = $(questionEl).find('.pitanje').text().replace(/\n|\r/g, "").trim();   
       if(examQuestions.map(q => q.question).includes(question))
-        return;
+      return;
       // Image URLs
       const imagesUrls = $(questionEl)
-        .find('.pitanje img')
-        .map((_, imgEl) => { return `${URL_DOMAIN}/${$(imgEl).attr('src')}` })
-        .get();
+      .find('.pitanje img')
+      .map((_, imgEl) => { return `${URL_DOMAIN}/${$(imgEl).attr('src')}` })
+      .get();
+      // Detect question type and parse out value if it is 'TYPED'. If answer values is 'null' then type is 'SELECTED'
+      const typedAnswerText = $(questionEl).find('tr:nth-child(5) > td > table > tbody > tr:nth-child(2) > td > font').html()
+      const recognitionString = 'Ispravan odgovor : ';
+      const questionType: QuestionType = typedAnswerText?.includes(recognitionString) ? 'TYPED' : 'SELECTED'
       // answers
-      const answersWrapperEl = $(questionEl).find('tr:nth-child(5) > td > table > tbody > .blockRow > td:nth-child(2)');
-      const answers: Answer[] = answersWrapperEl.map((i, answerEl) => {
-        return {
-          text: $(answerEl).find('.odgovor').html(),
-          correct: $(answerEl).find('font > b').text() == 'Ispravan odgovor'
-        } as Answer
-      }).get()
+      let answers: Answer[] = [];
+      if (questionType == 'SELECTED') {
+        const answersWrapperEl = $(questionEl).find('tr:nth-child(5) > td > table > tbody > .blockRow > td:nth-child(2)');
+        answers = answersWrapperEl.map((i, answerEl) => {
+          return {
+            text: $(answerEl).find('.odgovor').html(),
+            correct: $(answerEl).find('font > b').text() == 'Ispravan odgovor'
+          } as Answer
+        }).get()
+      }
+      if (questionType == 'TYPED') {
+        const typedAnswerValue = questionType == 'TYPED' ? typedAnswerText?.substring(recognitionString.length, typedAnswerText.length) : null
+        answers.push({
+          text: typedAnswerValue,
+          correct: true
+        } as Answer)
+      }
 
+// #pitanje1 > tbody > tr:nth-child(5) > td > table > tbody > tr:nth-child(2) > td > font
       const examQuestion: ExamQuestion = {
         question: question,
         answers: answers,
-        imagesUrls: imagesUrls
+        imagesUrls: imagesUrls,
+        type: questionType
       };
       examQuestions.push(examQuestion)
     });
   };
   
-  fs.writeFileSync('resources/exam.json', JSON.stringify(examQuestions, null, 2), 'utf8');
+  fs.writeFileSync('resources/questions.json', JSON.stringify(examQuestions, null, 2), 'utf8');
   
   console.log(`${examQuestions.length} exam question saved.`)
