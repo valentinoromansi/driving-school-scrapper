@@ -5,11 +5,11 @@ import fs from 'fs'
 
 const URL_PROTOCOL = 'https://';
 const URL_DOMAIN = 'klindic.autoskola-testovi.com';
-const sleep = () => new Promise(resolve => setTimeout(resolve, 1000))
+const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
 let $: cheerio.CheerioAPI
 const headers = {
   headers: { 
-    cookie: 'PHPSESSID=eg71ooe534n1o3vlgr7o874855; cookie=here' 
+    cookie: 'PHPSESSID=gud57f4tvqmf1935ivor8s0kf2; cookie=here' 
   } 
 }
 
@@ -105,6 +105,8 @@ for (const examUrl of examUrls){
       };
       examQuestions.push(examQuestion)
     });
+    //
+    await sleep(1000) // Sleep for 1sec to avoid potential server side timeout
   };
   
   fs.writeFileSync('resources/questions.json', JSON.stringify(examQuestions, null, 2), 'utf8');
