@@ -5,7 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "tsc && node build/main.js"
+    "start": "tsc && node build/main.js",
+    "repairjson": "tsc && node build/repairScript.js"
   },
   "keywords": [],
   "author": "",
